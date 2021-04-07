@@ -11,4 +11,4 @@ Text n-gram analyser finds meaningful and frequent n-grams in the provided text.
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need Customized Deep learning and Machine Learning Solutions? Get in Touch!
 
 ## Amazon Marketplace Link
-The product can be found [here]()
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-bcw44qadhenmi?qid=1617789224520&sr=0-106&ref_=brs_res_product_title)
