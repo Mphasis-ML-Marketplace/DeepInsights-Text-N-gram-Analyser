@@ -1,1160 +1,363 @@
-The Economist Intelligence Unit has developed a new
-“quality of life” index based on a unique methodology that links the results of subjective life-satisfaction
-surveys to the objective determinants of quality of life
-across countries. The index has been calculated for 111
-countries for 2005. This note explains the methodology
-and gives the complete country ranking.
-Quality-of-life indices
-It has long been accepted that material wellbeing, as
-measured by gdp per person, cannot alone explain the
-broader quality of life in a country. One strand of the
-literature has tried to adjust gdp by quantifying facets
-that are omitted by the gdp measure—various nonmarket activities and social ills such as environmental
-pollution. But the approach has faced insurmountable
-difficulties in assigning monetary values to the various
-factors and intangibles that comprise a wider measure
-of socio-economic wellbeing.
-There have been numerous attempts to construct
-alternative, non-monetary indices of social and economic wellbeing by combining in a single statistic a
-variety of different factors that are thought to influence
-quality of life. The main problem in all these measures
-is selection bias and arbitrariness in the factors that are
-chosen to assess quality of life and, even more seriously,
-in assigning weights to different indicators (measured
-on a comparable and meaningful scale) to come up with
-a single synthetic measure. gdp, despite its drawbacks,
-at least has a clear, substantive meaning and prices are
-the objective weights for the goods and services that
-make it up (although there are also very big problems
-in estimating the purchasing-power parities that have
-to be used instead of market exchange rates in order to
-express countries’ incomes in the same currency).
-Some researchers have invoked the un’s Universal
-Declaration of Human Rights to identify the factors
-that need to be included in a quality-of-life measure.
-But, even if accepted as a starting point, that still does
-not point to precise indicators or how they are to be
-weighted. A technocratic and unsatisfying device that is
-sometimes used is to resort to “expert opinion”.
-Life-satisfaction surveys
-Our starting point for a methodologically improved
-and more comprehensive measure of quality of life is
-subjective life-satisfaction surveys (surveys of life satisfaction, as opposed to surveys of the related concept of
-happiness, are preferred for a number of reasons). These
-surveys ask people the simple question of how satisfied
-they are with their lives in general. A typical question
-on the four-point scale used in the eu’s Eurobarometer
-studies is, “On the whole are you very satisfied, fairly
-satisfied, not very satisfied, or not at all satisfied with
-the life you lead?”
-The results of the surveys have been attracting
-growing interest in recent years. Despite a range of early
-criticisms (cultural non-comparability and the effect of
-language differences across countries; psychological factors distorting responses), tests have disproved or mitigated most concerns. One objection is that responses
-to surveys do not adequately reflect how people really
-feel about their life; they allegedly report how satisfied
-they are expected to be. But people know very well how
-satisfied they are. Responses to questions about life
-satisfaction tend to be prompt; non-response rates are
-very low. This simple measure of life satisfaction has
-been found to correlate highly with more sophisticated
-tests, ratings by others who know the individual, and
-behavioural measures. The survey results have on the
-whole proved far more reliable and informative than
-might be expected.
-Another criticism is that life-satisfaction responses
-reflect the dominant view on life, rather than actual
-quality of life in a country. Life satisfaction is seen as a
-judgment that depends on social and culturally specific
-frames of reference. But this relativism is disproved by
-the fact that people in different countries report similar
-criteria as being important for life satisfaction, and by
-the fact that most differences in life satisfaction across
-countries can be explained by differences in objective
-circumstances. In addition, it has been found that the
-responses of immigrants in a country are much closer
-to the level of the local population than to responses in
-their motherland. Answers to questions on satisfaction in bilingual countries do not reveal any linguistic bias
-arising from possibly differing meanings and connotations of the words “happiness” and “satisfaction”. Selfreports of overall life satisfaction can be meaningfully
-compared across nations.
-The Economist Intelligence Unit’s index
-So why not just take the survey results completely at
-face value and use the average score on life satisfaction
-as the indicator of quality of life for a country? There
-are several reasons. First, comparable results for a sufficient number of countries tend to be out-of-date and
-many nations are not covered at all. Second, the impact
-of measurement errors on assessing the relationship
-between life-satisfaction perceptions and objective
-indicators tends to cancel out across a large number of
-countries. But there might still be significant errors for
-any given country. So there is a bigger chance of error
-in assessing quality of life between countries if we take
-a single average life-satisfaction score as opposed to a
-multi-component index. Finally, and most important,
-although most of the inter-country variation in the
-life-satisfaction surveys can be explained by objective
-factors, there is still a significant unexplained component which, in addition to measurement error, might be
-related to specific factors that we would want to net out
-from an objective quality-of-life index.
-Instead we use the survey results as a starting point,
-and a means for deriving weights for the various determinants of quality of life across countries, in order to
-calculate an objective index. The average scores from
-comparable life-satisfaction surveys (on a scale of one to
-ten) can be assembled for 1999 or 2000 for 74 countries.
-These scores are then related in a multivariate regression
-to various factors that have been shown to be associated with life satisfaction in many studies. As many as
-nine factors survive in the final estimated equation (all
-except one are statistically significant; the weakest, gender equality, falls just below). Together these variables
-explain more than 80% of the inter-country variation in
-life-satisfaction scores. Using so-called Beta coefficients
-from the regression to derive the weights of the various
-factors, the most important were health, material wellbeing, and political stability and security. These were
-followed by family relations and community life. Next
-in order of importance were climate, job security, political freedom and finally gender equality.
-The values of the life-satisfaction scores that are
-predicted by our nine indicators represent a country’s
-quality-of-life index, or the “corrected” life-satisfaction
-scores, based on objective cross-country determinants.
-The coefficients in the estimated equation weight automatically the importance of the various factors; the
-method also means that the original units or measurement of the various indicators can be used. They do not,
-unlike for other indices, have to rely on the potentially
-distortive effect of having to transform all indicators to
-a common measurement scale. We can also use the estimated equation based on 1999/2000 data to calculate
-index values for other years or even to forecast an index,
-thus making it up-to-date and facilitating comparison
-over time.
-Determinants of quality of life
-The nine quality-of-life factors, and the indicators used
-to represent these factors, are:
-1. Material wellbeing
-gdp per person, at ppp in $. Source: Economist Intelligence
-Unit
-2. Health
-Life expectancy at birth, years. Source: us Census Bureau
-3. Political stability and security
-Political stability and security ratings. Source: Economist
-Intelligence Unit
-4. Family life
-Divorce rate (per 1,000 population), converted into index
-of 1 (lowest divorce rates) to 5 (highest). Sources: un; Euromonitor
-5. Community life
-Dummy variable taking value 1 if country has either high
-rate of church attendance or trade-union membership; zero
-otherwise. Sources: ilo; World Values Survey
-6. Climate and geography
-Latitude, to distinguish between warmer and colder climes.
-Source: cia World Factbook
-7. Job security
-Unemployment rate, %. Sources: Economist Intelligence
-Unit; ilo.
-8. Political freedom
-Average of indices of political and civil liberties. Scale of 1
-(completely free) to 7 (unfree). Source: Freedom House
-9. Gender equality
-Ratio of average male and female earnings, latest available
-data. Source: undp Human Development Report
-A number of other variables were also investigated but,
-in line with findings in the literature, had no impact in
-this multivariate framework. These were: education levels, the rate of real gdp growth and income inequality
-(Gini coefficient). Studies have often found at most a
-small correlation between education and life satisfaction, over and above any impact that education has on
-incomes and health, and possibly other variables such
-as the extent of political freedom. A recent report by the
-ilo found that an indicator of schooling and training
-was actually inversely related to wellbeing when jobs are
-poorly attuned to people’s needs and aspirations. The role of income
-The aim is to supplement not supplant real gdp. We
-find that gdp per person explains more than 50% of
-the inter-country variation in life satisfaction, and the
-estimated relationship is linear. Surveys show that even
-in rich countries people with higher incomes are more
-satisfied with life than those with lower incomes. In 24
-out of 28 countries surveyed by Eurobarometer, material
-wellbeing is identified as the most important criterion
-for life satisfaction.
-However, over several decades there has been only
-a very modest upward trend in average life-satisfaction
-scores in developed nations, whereas average income has
-grown substantially. There is no evidence for an explanation sometimes proffered for the apparent paradox of
-increasing incomes and stagnant life-satisfaction scores:
-the idea that an increase in someone’s income causes
-envy and reduces the welfare and satisfaction of others.
-In our estimates, the level of income inequality had no
-impact on levels of life satisfaction. Life satisfaction is
-primarily determined by absolute, rather than relative,
-status (related to states of mind and aspirations).
-The explanation is that there are factors associated
-with modernisation that, in part, offset its positive impact. A concomitant breakdown of traditional institutions is manifested in the decline of religiosity and of
-trade unions; a marked rise in various social pathologies
-(crime, and drug and alcohol addiction); a decline in
-political participation and of trust in public authority;
-and the erosion of the institutions of family and marriage. In personal terms, this has also been manifested
-in increased general uncertainty and an obsession with
-personal risk. These phenomena have accompanied
-rising incomes and expanded individual choice (both
-of which are highly valued). However, stable family life
-and community are also highly valued and these have
-undergone a severe erosion.
-2005 quality-of-life index
-The coefficients in the equation are used to forecast a
-quality-of-life index for 2005. Four of the indicators are
-forecast for 2005 (gdp, life expectancy, unemployment
-rate, political stability); one (geography) is fixed and the
-remaining four, which represent slow-changing factors,
-are based on the latest available data. The table presents
-values of the forecast index for 2005 for 111 countries.
-Also in the table are data for gdp per person at ppp.
-For The World in 2005, Economist.com conducted
-an electronic survey, with more than 3,000 respondents,
-on how people rated various factors associated with
-quality of life (on a scale of one to five). Although the
-approaches are very different and the Economist.com
-sample of mainly well-to-do, English speaking and globalised people is rather unrepresentative, it is interesting to compare the implied weightings from the survey
-responses with those that emerge from our approach
-(for factors covered in both). There are differences, but
-they seem much less dramatic than might have been
-expected, underscoring the assumption of universalist
-values that underpins our approach. Accounting for difference
-The framework for calculating quality-of-life indices
-can be used to decompose and compare the sources
-of differences in quality of life between countries and
-regions (the values of the explanatory variables are
-multiplied by the equation coefficients).
-When one understands the interplay of modernity
-and tradition in determining life satisfaction, it is then
-easy to see why Ireland ranks a convincing fi rst in the
-international quality-of-life league table. It successfully
-combines the most desirable elements of the new—material wellbeing, low unemployment rates, political
-liberties—with the preservation of certain life satisfaction-enhancing, or modernity-cushioning, elements of
-the old, such as stable family life and the avoidance of
-the breakdown of community. Its score on all of these
-factors are above the eu-15 average, easily offsetting
-its slightly lower scores on health, climate and gender
-equality.
-The United Kingdom, by contrast, ranks 29th in
-the world—well below its rank on income per person
-and bottom among the eu-15 countries. Social and
-family breakdown is high, offsetting the impact of high
-incomes and low unemployment. Its performance on
-health, civil liberties, and political stability and security
-is also below the eu-15 average. The United States ranks
-lower on quality of life than on income but it is above
-the eu-15 average. Italy performs well, but Germany and
-France do not—belying the notion that the big eurozone nations compensate for their productivity lag with
-a better quality of life than in America. Internet inclusion is not guaranteed. Because of the Internet’s
-power and reach in our lives, uneven access can compound existing
-social and economic inequalities. Knowing where the gaps are can help
-stakeholders ensure an equitable future. The Economist Intelligence Unit,
-commissioned by Facebook, has published the Inclusive Internet Index
-for a third consecutive year. It covers 100 countries, up from 86 in 2018,
-representing 94% of the world’s population and 96% of global GDP.
-The index benchmarks Internet inclusion across four categories:
-Availability, Affordability, Relevance and Readiness. It is also informed
-by the Value of the Internet survey, now in its second year, which polled
-5,069 respondents from Asia-Pacific, the Americas, Europe, the Middle
-East, North Africa and Sub-Saharan Africa, revealing what people use the
-Internet for, how often, the benefits they receive, and the obstacles faced,
-from connection quality to mistrust of online information.
-This year’s results reveal stalled progress on closing the digital divide
-between the poorest and the rest of the world. Globally, the gap between
-those with access to the Internet and those without continues to narrow,
-following progress in access, affordability and quality of coverage.
-Inclusion for women and people with disabilities has improved, with
-low-income and lower-middle-income countries driving progress.
-However, there are also widening digital divides. Low-income countries
-are seeing a lack of progress in Internet access and network coverage
-improvements, with a marked slowdown compared with last year and the
-progress made in other parts of the world. Affordability is also declining
-relative to monthly income in many nations, which disproportionately
-affects people in low-income countries and women, both of whom are
-more reliant on mobile devices as their primary means of accessing
-the Internet.
-This executive summary report outlines the key trends of this year’s data.
-To explore the index and download its data, visit theinclusiveinternet.eiu.com This year’s Inclusive Internet Index identifies cause for both optimism
-and concern. We are seeing steady progress in the number and percentage
-of households connected to the Internet, narrowing the gender gap and
-improving accessibility for people with disabilities. The Internet also has
-become a crucial tool for employment and obtaining job-related skills.
-On the other hand, growth in Internet connections is slowing, especially
-among the lowest income countries, and efforts to close the digital divide
-are stalling, in part due to declining affordability in a number of low-income
-countries. Because the Value of the Internet survey found overwhelmingly
-positive benefits from using the Internet, particularly for improving
-livelihoods, the implications of the lowest income countries falling behind in
-terms of connectivity are particularly troubling. The lack of quality connectivity
-will further handicap low-income countries’ ability to improve their economies
-relative to their neighbors, including lower-middle-income countries.
-Preventing a new digital divide and closing the remaining gaps in Internet
-inclusion will require collaboration among governments, all segments of
-the private sector, academics, technologists and civil society. Governments
-can help on the supply side with policies enabling new technologies, new
-business models and investment in high-quality networks, and on the demand
-side, by facilitating affordability and helping foster eGov, public health
-and education applications. With enabling policies in place, the private
-sector can continue to extend Internet infrastructure and explore new
-technologies and applications that drive demand and give more people
-access to the benefits of the Internet.
-No single stakeholder or group can achieve Internet inclusion alone.
-Rather, we all must work together, leveraging our relative strengths
-and expertise, to achieve our goal of Internet inclusion. The digital divide appears to be widening at the bottom of the
-income pyramid, risking a reversal of past progress. The percentage
-of households connected to the Internet globally increased on average
-to 54.8% from 53.1%, a modest improvement of 3.1%.1 However, in
-low-income nations, Internet connections improved by a mere 0.8%
-on average. This stands in marked contrast to 2018, when this group
-saw 65.1% growth.2
- Mobile network coverage also improved much more
-slowly in this group, with a 22% improvement in 4G coverage compared
-with a 66% increase in lower-middle-income countries. In the 2018 index,
-low-income countries led other income groups with an 89.9% increase
-in 4G coverage compared with 2017. In a positive development, gender gaps in Internet access are
-narrowing globally, led by low-income and lower-middle-income
-countries. On average, men are 24.8% more likely to have access to the
-Internet than women, compared with 31.5% last year. In some countries,
-women’s Internet access actually exceeds that of men, with the Philippines,
-Ireland, China and Argentina having the largest majorities. However, there
-is more to do; 28 countries still lack a female e-inclusion policy despite
-having a statistically significant gender gap. Mobile broadband subscriptions are stagnating, and mobile data
-costs relative to income have increased in nearly half of the countries
-in the index. Mobile broadband subscriptions per 100 inhabitants grew
-just 0.3% this year, and in low-income countries subscriptions actually
-declined. Mobile data affordability has improved globally, thanks largely
-to improvements in lower-middle-income countries. However, the cost of
-prepaid data plans increased in 39 out of the 84 countries that were scored.
-The 2019 Value of the Internet survey shows that women are relying more
-heavily than men on mobile devices to get online, with 61.7% most often
-connecting to the Internet this way, versus 52.5% of men. Therefore, persistent
-increases in the cost of mobile data and devices, relative to monthly income,
-could disproportionately affect women gaining Internet access.
-Web accessibility standards have improved globally, led by low-income
-and lower-middle-income countries. Disabilities have prevented many
-people from accessing the Internet. However, this divide, as measured
-by national compliance with W3C Web Content Accessibility Guidelines
-(WCAG), a global standard, has been narrowing. The average web
-accessibility score improved by 9.7% compared with 2018. In low-income
-and lower-middle-income countries, scores improved by 29.4% and 23.5%,
-respectively. Madagascar, Colombia, India, Jamaica and Senegal showed
-notable progress in the past year with regard to web accessibility. The Internet has become a crucial tool for improving livelihoods,
-but entrepreneurs, the under-employed and people in low-income
-countries are especially vulnerable to poor connectivity. Nearly three
-quarters of survey respondents (74.4%) say the Internet is more effective
-than other means for finding jobs, and 76.5% of respondents also say they
-have used it to develop job-relevant skills. However, poor connectivity
-is a barrier to those who may be most in need of a way to improve their
-livelihoods. For example, 43.3% of respondents in low-income countries
-cite it as a challenge when trying to develop new skills using the Internet,
-much higher than the 34.6% in upper middle-income countries and
-25% in high-income countries.
-Concerns about online privacy remain high, and trust in information
-on the Internet from governments has retreated in the West.
-More than half (52.2%) of survey respondents say they are not confident
-about their online privacy, which is basically steady since the 2018 poll.
-Trust in government websites and apps has declined in the West, retreating
-by 10 percentage points and 6 percentage points in North America and
-Europe, respectively. Although a majority of respondents say fears about
-data theft are making them choosier about where they shop online,
-59% of respondents agree that making purchases online is safe and secure,
-a figure that has held relatively steady compared with last year’s survey. Growth in Internet connections slowed in 2019, and a concerning
-divide is emerging between low-income countries and the rest.
-The percentage of households connected to the Internet edged higher to
-54.8% from 53.1% in 2018. Among the 68 countries that were in the 2017,
-2018 and 2019 indexes, the rate of growth in Internet connections slowed
-to 2.9% in 2019, from 7.7% in 2018. The biggest year-on-year improvements
-in the number of household Internet connections overall are in Cameroon
-(106.7%), Kenya (34.3%) and Kuwait (28.3%). Among geographic regions,
-Latin America had the biggest increase in connections, rising 7.2%.
-Lower-middle-income countries saw connections improve by 6.9%,
-significantly more than low-income countries, which saw expansion of
-a mere 0.8%. This stands in marked contrast to 2018, when this group
-saw 65.1% growth. The difference between average household Internet
-connections among low-income and high-income countries has grown to
-74 percentage points, up from 72.6 percentage points in the 2018 index.
-Connection quality has improved overall, driven mostly by
-lower-middle-income countries, but low-income nations are falling
-behind on 4G coverage. 4G networks are vastly superior to 2G in latency
-and their capacity for rich media. The difference is especially important
-for people in low-income countries, who are more reliant on mobile for
-Internet access. The 2G-4G coverage rate gap has thankfully narrowed to
-26.2%, from 33.7% in 2018, and the connection quality of fixed broadband
-and mobile connections, such as download and upload speeds, has improved
-globally. For example, the world’s average mobile download speed improved
-by 36% to 21.9 Mbps from 16.1 Mbps, with the biggest gains in South Asia.
-Lower middle-income countries have had a significant improvement of
-66% in 4G coverage. However, low-income countries saw more modest
-progress with a 22% improvement.
-Mobile broadband subscription growth is slowing, and mobile data
-is becoming less affordable in nearly half of countries in the study.
-Mobile broadband subscriptions per 100 inhabitants grew by 0.3% this
-year, and low-income countries actually saw a decline of 2.1%. Cost may
-be a factor, especially for mobile devices, the primary conduit through
-which a larger share of people around the world are accessing the Internet,
-according to the 2019 Value of the Internet survey. Mobile data affordability
-has improved overall, thanks largely to lower-middle-income countries;
-the average price of a prepaid 500MB mobile data plan as a percentage of
-monthly income declined to 2.4%, from 2.6% in the 2018 index, with very strong improvements in Bulgaria (-90.2%), Nepal (-89.3%) and Ghana
-(-76.8%). But the cost of prepaid data plans increased in 39 out of the
-84 countries that were assessed in the 2018 and 2019 indexes. Worsening
-mobile affordability, if it persists, could affect women even more than
-men. The survey shows that women rely more heavily on mobile to get
-online, with 61.7% of women saying they most often connect to the
-Internet via a mobile device, versus 52.5% of men.
-Although men still have higher rates of Internet and mobile access
-than women, the gender gap is narrowing. Low-income and lower
-middle-income countries are driving the change. There is still a gender gap
-in Internet access in favor of men in 84% of the countries in the 2019 index.
-In high-income countries, 4.3% more men than women have access to the
-Internet in 2019, 0.8 percentage points more than in 2018. By contrast,
-gender gaps in lower middle-income and low-income countries narrowed
-significantly. Still, 28 countries lack comprehensive female e-inclusion
-policies, with active strategies to promote Internet access and e-inclusion
-for women, digital skills programs and targets for women and girls to study
-science, technology, engineering and mathematics (STEM). Such policies
-have borne fruit in a diverse set of nations that have either narrowed
-Internet gender gaps or achieved greater access for women, including
-Chile, Costa Rica, Ireland, Namibia, and the Philippines. A further 11,
-including India, Colombia and Bangladesh, have a plan to promote Internet
-access and e-inclusion for women, but their gender gap is statistically
-significant. Gender parity is also affected by affordability and 4G progress.
-Internet access for people with disabilities is improving thanks to
-stronger adoption of web accessibility standards in low-income and
-lower middle-income countries. The Internet accessibility gap for people
-with disabilities is closing quickly. Compliance with the global standard
-in accessibility, the W3C WCAG, means that people with disabilities such
-as visual impairment can access and use websites in terms of perception,
-interaction, understanding and accessibility of content. Overall, the
-average web accessibility score in the 2019 index rose to 1.6, from 1.5
-in 2018, with 0 being the lowest rank and 4 being the highest. This was
-driven mostly by low-income and lower middle-income countries, where
-scores have improved by 29.4% and 23.5%, respectively. Notable improvers
-include Madagascar, Colombia, India, Jamaica and Senegal. The majority of people in the 2019 Value of the Internet survey are
-not confident about their privacy on the Internet and, as a result,
-they are adapting their online activities. More than half (52.2%) of
-respondents say they are not confident about their online privacy, hardly
-changed from 51.5% in the 2018 survey. In Europe, the share of respondents
-confident about their online privacy increased by 8 percentage points
-from the 2018 survey, probably because of the General Data Protection
-Regulation (GDPR), the EU’s comprehensive data privacy rules that came
-into force in May 2018. However, the Middle East and North Africa region
-saw a decline of 9 percentage points compared with the 2018 survey.
-Most respondents are changing the way they use the Internet because
-they believe some information may not remain private. For example,
-55.8% of respondents say they limit how much financial information they
-share online because of privacy concerns. This is relatively consistent
-across different age groups and household income levels, too. In addition,
-42.6% say they limit how much personal health and medical information
-they share. Only 7.5% of respondents say privacy concerns have not
-changed the way they use the Internet. Trust in online sources of information remained relatively stable,
-except in the West. Political turbulence in the US and UK may have
-played a role in causing the share of respondents in North America and
-Europe who say they trust information on government websites and apps
-to retreat by 10 percentage points and 6 percentage points, respectively,
-compared with the 2018 survey. Trust in non-government websites and
-apps among respondents in those regions also slipped, although not as
-sharply. Notably, in North America, trust in other people on social media
-climbed by 8 percentage points. Despite lingering privacy concerns, people are increasingly shopping
-online. Whether this continues in the future may hinge on attitudes
-toward online safety and security. Respondents who say they have
-purchased something online inched higher to 89.5%, from 87.8% in 2018.
-The share of respondents who say they buy something online at least every
-week also rose, but remained relatively meager at 19.5%. A majority of
-respondents say that making online purchases is safe and secure, but, at
-58.8% it was slightly lower than the 62.1% recorded in the 2018 survey. The Internet has become a crucial tool for employment, helping the
-vast majority of people online become more competitive in labor
-markets. Nearly three-quarters of respondents (74.4%) say the Internet is
-more effective than other mediums for finding jobs and 70.5% say their job
-prospects have improved thanks to the Internet. More than half (52.7%) say
-the most significant benefit of looking for jobs online, as opposed to other
-sources, is that there are more opportunities available. The Internet is also
-helping people to up-skill in changing labor markets, as online education
-platforms and tutorials and digital education technologies all improve:
-60.2% of respondents say the Internet has helped them pursue an education
-and 76.5% have used online resources to develop skills in ways that make
-them better at their job.
-Entrepreneurs, the under-employed and people in low-income
-economies are particularly challenged by poor connectivity when
-trying to develop new skills using the Internet. Up-skilling is
-increasingly important, as digital economies expand and require people
-to adapt. The Internet is a valuable resource for learning new skills,
-but connectivity can be an obstacle, often for people who are most in
-need of a way to improve their livelihoods. Among those who are either
-self-employed or employed but seeking more work, 41.7% say poor
-connectivity is a challenge when trying to develop new skills online,
-compared with 34.8% among all respondents. Furthermore, 43.3% of
-respondents in low-income countries also cite poor connectivity as a
-challenge, compared with 34.6% in upper middle-income countries
-and 25% in high-income countries. The results of the 2019 Inclusive Internet Index leave disconcerting
-questions lingering. Does the evidence that low-income countries are
-falling behind the rest of the world when it comes to Internet connections
-and improving the quality of connectivity represent a temporary departure
-from the narrowing digital divide? Or is it a new and troubling trend?
-On the one hand, Internet access continues to grow, with more than
-half of the world’s households online, and some digital divides, notably
-the gender and web accessibility gaps, narrowing. This progress is
-unmistakable. Countries are moving quickly to 4G adoption, a promising
-trend as 5G networks present new opportunities in the global digital
-economy. In particular, lower-middle-income countries have performed
-well in the 2019 index in multiple categories.
-On the other hand, in low-income countries, Internet access and 4G
-adoption are moving forward too slowly in a world where many are racing
-to get ahead in the digital economy. Affordability of mobile data, declining
-this year in nearly half of countries, and the devices themselves could also
-widen digital divides. The 2019 Value of the Internet survey shows that the
-vast majority of people are gaining crucial economic benefits from being
-online, from developing skills and finding jobs to supporting causes they
-care about. However, the survey also indicated that lack of connectivity
-exerts a toll on the people who need the most support. Poor Internet
-connectivity is particularly challenging for entrepreneurs and people in
-low-income economies, who need digital tools to up-skill and improve
-their job prospects.
-The survey also reflects anxiety about online privacy and a decline in trust
-in some sources of information. Indeed, trust in government information
-has fallen since last year in Europe and North America. The growth and
-importance of the digital economy will mean that alleviating these anxieties
-should be a priority of companies, governments, regulators and developers. Launched in 2017, the Inclusive Internet Index measures the extent to
-which the Internet is not only accessible and affordable, but also relevant
-to all, in a way that contributes to social and economic progress. The index
-includes conventional and non-conventional indicators by measuring
-factors including affordability, relevance to people’s lives, and the extent
-to which policies support its use, including to historically disadvantaged
-demographic groups such as women and those with disabilities.
-The index measures four domains which, taken together, provide a holistic
-picture of Internet inclusion:
-• Availability: quality and breadth of available infrastructure required
-for access and levels of Internet usage.
-• Affordability: cost of access relative to income and the level of
-competition in the Internet marketplace.
-• Relevance: existence and extent of local language content and
-relevant content
-• Readiness: capacity to access the Internet, including skills, cultural
-acceptance, and supporting policy.
-This index is published alongside the 2019 Value of the Internet survey,
-which is in its second year. The poll garnered views and opinions of 5,069
-respondents from Asia-Pacific, the Americas, Europe, the Middle East,
-North Africa and Sub-Saharan Africa. The 2019 survey focused on how the
-Internet affects livelihoods, including access to employment opportunities,
-career planning and ways to develop skills. It also gauged levels of trust in
-online sources of information and attitudes about privacy. The index and
-survey both shine a light on Internet inclusion across social and economic
-domains, revealing trends and exploring how digital divides between and
-within countries are evolving. A new Industries in 2020 report from The EIU forecasts growth and assesses key risks in six business sectors for 2020. The US-China trade war has weighed on global trade growth in 2019, while sanctions on Iran have unnerved energy markets. In 2020 global growth is expected to accelerate, but there will still be barriers to business.
-
-The debate over trade will shift from tariffs to technology, with increasing arguments over cybersecurity and intellectual property rights. While China will still bear the brunt of US trade measures, other countries will also be under threat, with implications for their manufacturing sectors. However, with Asia moving in the other direction to cement trade alliances, growth patterns will diverge. This will affect global demand for many goods and exposing problems with manufacturing overcapacity in some regions.
-
-The EIU report looks at the impact of this scenario on six business sectors worldwide: automotive; consumer goods and retail; energy; financial services; healthcare and pharmaceuticals; and telecoms.
-
-Key findings in the report include:
-
-Five factors will affect growth in global industry during 2020: a sporadic recovery in demand; a shift in trade policies from tariffs to regulation; the rollout of Asian trade alliances; Brexit; and uncertainty over the direction of US policy in the run-up to a watershed election.
-Despite these considerable risks, The Economist Intelligence Unit has raised its growth forecasts for the global economy and for six major industries.
-Emerging and developing markets will pick up speed compared with 2019, but developed markets will see even slower growth.
-The US presidential election in November 2020 will determine the rollout of renewable energy, efforts to reform healthcare, regulation of financial services, as well as corporate tax levels and trade policies.
-Ana Nicholls, Director of Industry Operations at The Economist Intelligence Unit, says:
-
-Although we expect global growth to pick up, the forecasts for these six industries are mixed. Trade barriers, regulatory pressures and technology will all take centre stage in 2020, while the presidential election could prove a turning point not just for the US, but also for the rest of the world. Ethiopia is poised to become the new manufacturing hub of Africa. Prime minister and recent Nobel Peace Prize winner, Abiy Ahmed, has unveiled ambitious plans to revolutionise the country’s manufacturing sector which, if realised, could result in GDP growth of an unparalleled 11% per year for the next ten years. However, without the right number and mix of skilled engineers, Mr. Ahmed will struggle to accomplish his plans for economic development.    
-
-The country is primed to compete with manufacturing giants such as Bangladesh and India. Consistently low labour costs have attracted a surge in foreign investment, but Ethiopia needs the right domestic talent if Mr. Ahmed’s ambitious economic agenda is to succeed. Ethiopia’s engineers need critical technical and managerial skills to grow the manufacturing industry at the scale envisioned by their prime minister.
-
-Engineering education in Ethiopia poses a particular problem. Current programmes over-emphasise theoretical learning, and require greater research funding and collaboration with the private sector in order to effectively train the next generation of engineers. To maximise GDP growth in the manufacturing sector, Ethiopia must first address these challenges. Can there be an overhaul of the engineering education system in time to support Mr. Ahmed’s ambitious growth plans? Can there be an overhaul of the engineering education system in time to support Mr. Ahmad’s ambitious growth plans? 
-
-Our Research
-Analyst, Antonia Kerle is working on the Global Engineering Capability Review with the Royal Academy of Engineering and the Lloyd’s Register Foundation. Antonia’s research will help the Royal Academy develop programs to address some of the most significant engineering capability challenges across the world; including in Ethiopia. The full report will be released in early 2020, click here to view an interactive summary of the 2019 Index. The EIU has scored the world’s 82 largest economies on their ability and willingness to confront climate change. The index, which is integrated into our proprietary long-term economic growth framework, makes it possible to assess country-specific economic impacts. The Climate Change Resilience Index rates countries on eight indicators that assess their capacity to withstand the impacts of higher temperatures and more extreme weather events.
-
-The EIU’s research shows that being rich is an advantage, but institutional quality matters, too. Institutional quality is a major determinant of long-run economic growth, but The EIU’s results also point to the importance of institutional quality for minimising the impact of climate change. Poor institutions, therefore, can simultaneously harm economic growth and exacerbate the negative impacts of climate change.
-
-Key figures include:
-
-The economy will be 3% smaller in 2050 according a new framework developed by The Economist Intelligence Unit (The EIU).
-According to The EIU’s framework, Africa is the least resilient region to the impact of climate change (4.7% smaller), followed by Latin America (3.8%), the Middle East (3.7%), Eastern Europe (3%) and the Asia-Pacific (2.6%).
-North America (1.1% smaller) and Western Europe (1.7%) display the most resilience and are likely to see the least impact economically because both regions are richer and more prepared to tackle climate change from an institutional standpoint. The EIU’s research shows that being rich is an advantage to tackle climate change, but institutional quality matters, too.
-John Ferguson, The EIU’s Country Analysis Director, says:
-
-Our index reveals the vulnerabilities that exist in developing countries to the oncoming impacts of climate change. The impacts of climate change are already being felt – we are already seeing the effects of more extreme weather events –, but the economic impacts will only grow over time. It’s important to remember that a 3% loss of real GDP in 2050 is highly significant for the global economy, and that there will be economic losses in every year of the coming three decades.
-
-JOHN FERGUSON
-There is also uncertainty in forecasting the impacts of climate change. For example, The EIU has assumed that countries make a modest effort to meet their goals as stated in their INDCs (the intended nationally determined contributions as set out for the Paris Climate Agreement). However, the progress in this space and the implementation of these policies could easily disappoint. In fact, the economic impacts could be much worse than those highlighted in The EIU’s model.
-
-Find out more by downloading the Climate Change Resilience white paper now. Opportunities for economy and society after the 2020 Tokyo Olympics
-The 2020 Summer Olympic and Paralympic Games in Tokyo are playing a central role in the narrative of Japan’s revitalisation. The Olympic Games are also viewed by business executives as a great opportunity to boost morale and visibility, to “catapult the host city into the premier league of cities”.
-
-The opportunities of the Olympics do not have to stop when the lights go off after the closing ceremony. The legacy created by the Olympics should be enough for the country to start building what we call Japan’s next decade. The key areas mapped out in this report indicate how to reap the benefits of the unique opportunities on offer: new markets, new technologies, new customers and new workers. From the start of November 2019, we are introducing some key enhancements to our Energy Briefing service.
-
-The planned improvements are:
-
-Ten-year forecasts, up from five years previously. Based on a rigorous assessment of economic and population growth, as well as information on future energy policy and infrastructure investments, these extended forecasts will enable you to take a better long-term view of each country’s energy needs and supplies.
-
-A new risk and return assessment. This new section will introduce a scoring system, along with commentary, that will enable you to easily assess the comparative risks and forecast returns in each market. This assessment will be available for key subsectors, as well as for the energy sector as a whole.
-
-The new ten-year forecasts will be available for all countries on our data tool from November. They will also be incorporated into our regular Energy Reports for each country, along with the new risk and return assessments, as these are updated according to our annual schedule.
-
-To find out more about Energy Briefing, contact us or visit our dedicated Energy Briefing page. You can also purchase Energy Briefing reports from The EIU Store.  Now more than ever, digital services play a major role in our banking experience. Most of us use online banking daily, many of us have switched to purely digital banks such as Monzo or Starling, and Apple Pay continues to gain popularity. The way we manage our finances is increasingly intertwined with technological advancements. But men and women do not have equal access to these advancements that make managing our finances easier, especially in developing markets. Women have less access to technology, including mobile phones and the internet, which in turn impacts the ease with which women are able to access new financial services. In our Global Microscope 2019, we researched the gender gap in financial inclusion across 55 developing markets. Policies must be introduced or adapted to attempt to mitigate the gender gap in financial inclusion. In one country we researched, the laws for men and women to open bank accounts are still unequal. To close the gender gap, women must be fairly represented in top level decision-making positions in the financial sector. Without fair representation, it is unlikely that attempts to close the gender gap in financial inclusion, both on and offline, will be particularly successful.
-
-Our findings indicate that unequal access to national ID is in part responsible for the gender gap. In 21 of the countries we surveyed, women have unequal access to obtaining ID. Across the world, nearly all banks require ID in order to open an account. It’s unsurprising, then, that when it is more difficult for women to access ID, it is more difficult for women to open a bank account.  It is not only ID that women find harder to obtain; women’s access to financial services is made more challenging by digital access inequality. Men have better access to the internet in two thirds of the countries we surveyed. As men are more likely to own mobile phones than women, by default, women are more likely to find it difficult to access new banking technology including apps, digital wallets and e-money.
-
-To drive change and close the gender gap in financial inclusion, women must be present in influential positions in the financial sector in order to advocate for equal access and inform effective policy changes. Currently, women hold less than 25% of the decision-making roles in the financial sector in 37 of the 55 countries we researched. In a 2018 study, The International Monetary Fund states that ‘women are underrepresented at all levels of the Global Financial System’. Without representation at the top level, men can monopolise decision-making at a senior level on gender related issues.
-
-To address the noticeable inequality in the sector, we added 11 new indicators to this year’s Microscope. The indicators measure what governments worldwide are doing to address the gender gap. It is clear that more must be done to ensure women are represented in the financial sector, women must be able to advocate for impactful policy changes and be at the forefront of decision making. In an increasingly interconnected and complex world, understanding the external risks to business is more vital than ever. From identifying to managing corporate risk, taking the necessary steps helps businesses avoid damaging losses, and also stay one step ahead of their competitors.
-
-In this free report, we take an in-depth look at how companies should be navigating risk, breaking down the process into a continual, four-step cycle. The EIU’s Global Liveability Index 2019 has crowned Vienna as the world’s most liveable city. Vienna has retained pole position, overcoming stiff competition from Melbourne, Sydney, and Osaka.
-
-Five cities in the Asia and Australasia region have made the top 10 this year. The Vietnamese capital, Hanoi, meanwhile, stands out for its marked improvement over the past five years, with progress across many categories.
-
-European cities perform well overall, claiming eight of the top 20 spots. Global liveability has risen this year, largely due to increasing perceptions of safety. The effects of climate change, however, are putting increasing pressure on cities leading to some substantial downgrades.
-
-Canadian cities have fared better than their US counterparts, with three in the top 10 and a fourth, Montreal (20th), ranked above any city south of the border. Meanwhile, the Venezuelan capital, Caracas, ranks in the bottom 10 as the government’s fight for legitimacy has impeded its ability to provide basic services for its citizens. Since Donald Trump took office as US president in January 2017, relations between the US on the one hand and Russia, Turkey and Iran on the other have deteriorated. These regional powers are three of the main strategic rivals for the US, and their influence in regional geopolitics has grown deeper.
-
-In this white paper, The EIU lays out the major drivers for future relations between the US and Russia, Turkey and Iran—including their perceived domestic interests, future developments in US sanctions, and their international behaviour.
-
-Questions addressed include:
-
-Will the US impose additional sanctions against these countries?
-How are these three countries building relations with each other?
-How do the US and EU respective stances towards Russia, Turkey and Iran differ?
-In doing so, The EIU draws upon the expertise of the Country Analysis team and its extensive network of on-the-ground contributors. Ahead of the upcoming Indonesian elections, The Economist Intelligence Unit lays out the major factors driving the electoral dynamics in this free report. What will the outcome be and how will it change the political landscape beyond 2019?
-
-In this free report, we examine the outlook for the country past the 2019 election, and provide an assessment of the impact of future policies and reform on business. The report also looks into the potential risks which may impact Jokowi securing his second term, and the challenges the country could face if his opponent, Probowo Subianto, were to take power. The EIU’s Worldwide Cost of Living report is a biannual survey comparing the cost of living in over 130 cities worldwide. The report examines more than 400 individual prices across 160 products and services.
-
-In this year’s survey, three cities share the title of the world’s most expensive city – Singapore, Hong Kong and Paris. The report finds that Asia and Europe dominate the top ten, with Singapore the only city maintaining its ranking from the previous year.
-
-There is a lot of movement elsewhere in the report. Cities in the US have become more expensive when compared to their global peers, while cities in Argentina, Brazil, Turkey and Venezuela have seen a sharp fall in their ranking. The outlook for the global economy is worsening. Slowing growth in key economies such as China and the EU, combined with the impact of the trade war between the US and China, will decelerate global growth in the coming years. A number of wide-ranging and complex risks remain that could drive growth even lower. Policymakers and business operating in today’s uncertain environment need to be aware of these potential upsets as they prepare their contingency strategies.
-
-Our latest free report assesses the top ten risks to the global political and economic order, offering a snapshot of our risk quantification services. The latest edition of the Democracy Index reveals that despite a growing disillusionment with formal political institutions, political participation is on the rise in almost every region around the world, with the population being spurred into political action. The Index – which assesses the global state of democracy in 2018 – also reveals that in the past decade, women’s political participation has improved more than any other single indicator in the model. Other key findings in this year’s report include:
-
- Global democracy has not deteriorated for the first time in three years
- There were substantial declines in several European countries – including Italy, Turkey and Russia
- Asia recorded the highest improvement in its score out of any region 
- The US-China trade war has been dominating the news for some time; its impact is becoming tangible in the business and political realms alike. What is narrowly described as a trade war is in fact a battle that spans geopolitics and global technology supply chains — one whose reach extends far beyond the US and China and that might substantially change the world as we know it. For the first time in decades, there is a distinct possibility that globalisation will slow or even begin to reverse.
-
-Our public policy team are closely monitoring this issue. Most recently, we partnered with colleagues at The Economist Corporate Network to facilitate two interactive sessions with senior executives in Singapore and Kuala Lumpur. We storyboarded alternate futures on how the US-China trade war might impact firms’ corporate strategy and operations. We did this through a simulation where we asked workshop participants to re-think the strategy of an ASEAN-based US e-commerce firm under two scenarios: an escalation and a de-escalation of the trade war. The session leveraged our newly established Foresight and Scenario Service, which builds on megatrend analysis, scenario planning and quantitative scenario modelling to help organisations to understand emerging trends, address strategic challenges, capitalise on opportunities and make better decisions. The session also built upon the findings of an upcoming paper that assesses the US-China trade war, which we will be releasing next week. The report includes our original macroeconomic forecasts developed through our new GVAR scenario model. By 2050, more than 50% of the world’s population will live in water-scarce regions. Growing demand for freshwater could put 45% of the world’s total GDP and 40% of its grain production at risk. The rising stress on global freshwater poses significant challenges for agriculture, industry, energy generation, drinking and sanitation across the globe. This tension can also contribute to the emergence of conflicts between and within nations.
-
-Transboundary river basins provide some 60% of the world’s freshwater flow; collectively they are home to 40% of the world’s population. Our Blue Peace Index addresses the worrying absence of collaboration structures that are needed to govern these critical resources. A lack of co-operation can have considerable economic, social and environmental consequences and potentially cause open conflicts. Access to water is a fundamental human right and is key for improving the livelihoods and quality of life for a vast number of people. The index highlights the challenges that multiple communities will face if changes to global water governance are not made. Water can be weaponised but it can also be a tool for co-operation, even in the most difficult contexts.
-
-The video below explains the intentions of the Blue Peace movement:
-
-MedTech companies are racing to commercialise new products.
-As demand grows and new technologies emerge, medtech companies are racing to commercialise new products. Whilst this happens, medtech companies must keep up with increased competition from big tech organisations.
-The EIU healthcare team have been working on a project entitled Digital Health: Transformation and Innovation within the US. The report examines the impact of using new medical technologies whilst assessing how key medtech players can commercialise their technology successfully.
-The report assesses the challenges that the US healthcare system currently faces. Our research shows why disruptive innovation and how medtech companies might better commercialise their new technologies. Following one of the hottest summers on record we’re researching the efficiency of cooling systems.
-On July 25, the United Kingdom saw the highest temperature recorded since 2003. On the Underground commuters were encouraged to drink water and take breaks whilst commuting. The UK is not alone: Belgium, Germany, Luxembourg and the Netherlands have also hit record high temperatures this summer.
-
-More frequent and intense heatwaves have caused many of us to stop and think about the need for air conditioning. The benefits of access are widespread, in addition to increasing comfort, access to air conditioning improves outcomes in education, health and productivity. Only 9% of households in Indonesia and 5% in India—two of the most populous countries in the world—have air conditioning. Despite this, the use of air conditioning and electric fans already accounts for some 10% of all global electricity consumption today. Demand for cooling is on the rise – a shift towards more efficient and accessible systems is necessary.
-
-Earlier this month, Diana Hindle Fisher and Conor Griffin prevented the initial findings of an upcoming EIU report on cooling. The presentation took place at Climate Week NYC and the report is expected to be published in October 2019. Global leaders gathered at United Nations’ High Level Political Forum in New York to discuss their countries’ progress towards meeting Sustainable Development Goals (SDGs). The focus of this forum was empowerment, inclusiveness and equality. For the first time ending violence against children was on the agenda.
-
-If current data is anything to go by progress towards eliminating violence against children has been slow. Although preventing and eradicating violence against children is rightly an ethically prominent issue, less than 50 countries have reported on the prevalence of sexual violence against children in their nation. The EIU public policy team have been working on the Out of the Shadows index (OOSI). In response to a low availability of country data, our index benchmarks stakeholder response to sexual violence against children globally. The report proves that we have a long way to go. Globally, we must provide more accurate data pertaining to this issue. More importantly, we have a long way to go to eliminate and prevent violence against children.
-
-The tool is the first of its kind; its main aim is to provide a tangible measure of progress towards meeting SDG 16.2 – ending all violence against children by 2030. The index is designed to drive change by creating accountability for governments, civil society and the private sector by monitoring and measuring progress towards meeting this highly important goal.
-
-EIU consultant, Katherine Stewart (pictured above) worked on and discussed the index with the President of Childhood Brasil, Roberta Rivellino. Next month, Katherine will be discussing the future of the Out of the Shadows Index alongside Elizabeth Dartnall, the executive director of the Sexual Violence Research Initiative (SVRI), South Africa at the SVRI Forum 2019. We’ve examined the impact of ‘Make in India’ – has the initiative created more opportunities for medtech multinationals?
-The Indian government have implemented numerous policies and incentives since they introduced Make in India in 2014. The initiative covers 25 areas of the Indian economy, one of them being the promise to develop the medtech industry within India.
-In this whitepaper we reflect on the outcomes of Make in India policies. We reflect on the outcomes of Make in India policies for the healthcare industry before highlighting key opportunities for medtech multinationals in the Indian market. Breast cancer accounts for around 15% of deaths among women worldwide per year. There is also a clear breast cancer mortality gap between countries with differing levels of development and income.
-
-Unlike hospitals in developed countries, which provide most, if not all of the care a patient needs under one roof, in Brazil, these kinds of facilities are rare. This makes access to treatment more difficult for women in Brazil. Whilst São Paulo city has some of the world leading facilities to treat breast cancer, diagnosis for women in Brazil is still often late, leaving more women vulnerable to advanced stage cancer which is more difficult to treat.
-
-“The problem in São Paulo is not the number of doctors, it is [patient] education. The patient does not know how to move through the public system. She does not know what kind of doctor she is looking for”. Late stage diagnosis is not only devastating for patients and their families, it is also expensive. The EIU estimates the overall bill for breast cancer treatment in São Paulo alone to be 880 million Real.
-In this report, we assess the indirect and direct costs of breast cancer care in São Paulo city. We also provide insights on current challenges facing patients, medical professionals, providers and policy makers. By comparing treatment options and availability in São Paulo with local and international benchmarks of best-practice breast cancer care; we highlight key areas of improvement for breast cancer care in São Paulo city. On World Refugee Day, our senior global adviser, Leo Abruzzese joined the Refugee Investment Network (RIN) to announce the development of a Refugee Opportunity Index. The index is to be developed by the EIU Public Policy and the RIN.
-
- We wanted to develop this index to highlight the shortcomings in policy that negatively affect the more than 70 million displaced people worldwide. The index aims to incentivise policy reforms that support economic integration and inclusive growth for refugees.
-
-Leo announced plans to develop the index at an event held at The Rockefeller foundation, New York. The Public policy team are working on a new project; The Future of Giving. We’re working alongside the Bill and Melinda Gates foundation to produce a report that assesses how ten emerging technologies could increase the quality and quantity of charitable giving. From financial aid to food, this report analyses how the ‘fourth industrial revolution’ could shape the future of giving. From AI, blockchain and The Internet of Things (IoT) we assessed how beneficial each technological development could be for the charitable sector.
-
-Philanthropy – the act of giving – is essential to addressing the most pressing issues facing our world. Whilst philanthropy has existed in a similar form since the middle ages, over the past twenty years it has become increasingly apparent that the act of giving is vital in the face of crisis. Giving is not simply a kindness, it is a necessary component of intervention and prevention in the face of national and international crisis. The report delves into how AI, blockchain and the IoT could revolutionise the future of giving. The report found that problems such as high transaction costs, donor engagement challenges, financial sustainability and accountability could be improved and minimised using emergent technology to secure the future of giving. The EIU Public Policy team have recently completed Scaling Up, a report that assesses the potential impact of AI in the Saudi Arabian and United Arab Emirates (UAE) economies. The report was commissioned by tech giant Google and launched at the AI Everything summit in May 2019.
-
-The UAE and Saudi Arabia have long-enjoyed abundant hydrocarbons reserves, granting them a prominent place in world markets. Access to these resources has afforded both countries a strategic position in regional and global geopolitics. Now, both countries are finding it harder than less well-endowed countries to diversify their economies and boost productivity growth. Today, the countries face a mixed outlook, GDP growth is forecast to slow significantly in comparison to the past decade. Both countries must now turn to alternative revenue options to maintain their prominent positions within global and regional markets. The EIU assessed whether artificial intelligence (AI) was be the answer? AI could help to boost diversification and growth in the next decade. It seems that governments in both countries are keen to seize this emerging opportunity. Earlier this year, we released Moving on from One: How can China manage its declining fertility? The report examined declining fertility rates in China and assessed how reproductive technology could increase China’s fertility levels. Could Assisted Reproductive Technologies (ART’s) bring China’s fertility back to replacement rate?
-In the late 1960’s China’s birth-rate began to fall rapidly and fell below population replacement levels in 1992. Today, the average birth rate is 1.7 children per couple. Whilst family sizes are shrinking, China’s ageing population is growing in size and old age dependency is only set to rise.
-
-There are many reasons for this fall in fertility, such as China’s history of a one child policy, followed by the current two child policy. In the report we link declining fertility rates a number of socio-economic factors. Gender inequality in child rearing and familial duties continues to be a problem in China. Whilst Chinese women and girls now have greater access to higher education which leads to delayed marriage. The increased direct and indirect costs associated with raising children is also a factor as to why many Chinese families are choosing to have fewer children.
-
-Moving on from One assesses the impact of reproductive technologies on China’s birth rates. Could ART’s be the answer? We assessed the impact that improving access to, and reducing the cost of, ART’s could have on China’s birth rate problem. Tuberculosis (TB) remains the world’s deadliest infectious disease. It has claimed more lives than HIV and malaria combined. The disease’s grim history is now taking an even darker turn; strains of the disease can now withstand existing treatment options.
-
-Drug-resistant tuberculosis (DR-TB) affected 558,000 people in 2017 which caused 230,000 deaths. Historically, drug resistance was unusual but most common in patients who had previously suffered from TB. Now, first-time TB patients are increasingly showing drug resistance. DR-TB is spreading from person to person leaving many vulnerable and without treatment options.
-
-Drug resistance is forecasted to increase in high TB-burden nations including the Philippines, South Africa and Russia but also impacting Iran, India and South Africa. In 2007, the first reports emerged of totally drug-resistant TB; TB that is resistant to all first and second-line drugs. Unless these highly resistant forms are stopped, an untreatable epidemic could emerge.
-
-Find out more about how our research is impacting developments in this area. US medtech companies have been the largest supplier of medtech to emerging countries such as China, India and Brazil for the past decade. This could be set to change as emerging markets present a sizable opportunity for many MedTech companies. However their dynamic nature challenges companies to maintain a pulse on evolving market conditions while planning for the long term.
-
-We looked at how China’s domestic companies are growing rapidly to challenge medtech multinational (MNC) market shares in many mid- and high-end device segments. We also researched Latin America’s infrastructure gap is narrowing and opening up opportunities in the market that challenge US domination of the market. Philanthropy means the love of humanity. A conventional modern definition is "private initiatives, for the public good, focusing on quality of life", which combines an original humanistic tradition with a social scientific aspect developed in the 20th century. The Union Cabinet on Wednesday approved the introduction of the Personal Data Protection Bill in Parliament, the government announced.
-
-The draft bill, the Personal Data Protection Bill, 2018, was prepared by a high-level expert committee headed by former Supreme Court judge B.N. Srikrishna. The Bill deals with the broad guidelines on the collection, storage, and processing of personal data, the consent of individuals, penalties and compensation, and a code of conduct.
-
-The draft Bill classifies ‘sensitive personal data’ as including passwords, financial data, health data, sex life, sexual orientation, biometric data, genetic data, transgender status, intersex status, caste or tribe, and religious or political belief or affiliation. The draft Bill says that such sensitive personal data can be processed only with the explicit consent of the person, and this consent needs to be informed, clear, and specific, as defined by the Bill itself. The draft bill also has a provision for the right to be forgotten, where the person “shall have the right to restrict or prevent continuing disclosure of personal data”.
-
-
-There is also a provision for the central government to notify categories of personal data as critical personal data, which will then be only processed in a server or data centre located in India.
-
-Personal data is to be stored in India, but can be processed outside with the consent of the person.
-
-The draft Bill also specifies penalties for not following its provisions, including a penalty of ?5 crore or 2% of turnover, whichever is higher, if no action is taken on a data leak.
-
-The Personal Data Protection Bill will likely be introduced in Parliament during the ongoing Winter session. The Centre has written to all the States voicing concern that due to the lower Goods and Services Tax (GST) collections, the compensation cess might not be enough to pay for losses arising out of the tax system.
-
-The communication comes at a time when several States, including Rajasthan, Kerala, Delhi, Punjab and West Bengal, have publicly urged the Centre to transfer pending compensation payments as they have not received the dues for several months.
-
-The government of Punjab has even said it may take the matter to the Supreme Court if the Centre does not release the dues. The issue will be discussed in detail at the next GST Council meeting, scheduled for the second fortnight of December.
-
-“Among other issues, the GST revenue position shall be discussed in detail at this meeting,” the Centre’s letter to the States, reviewed by The Hindu, said. “This discussion is quite critical as lower GST and compensation cess collections have been a major concern in the last few months.”
-
-“The compensation requirements have increased significantly and are unlikely to be met from the compensation cess being collected,” the letter added.
-
-This situation assumes significance because it was the promise of compensation to the States for losses arising out of GST implementation that convinced a large number of reluctant States to sign on to the new indirect tax regime. The Centre had promised compensation for any shortfall in tax revenue due to GST implementation for a period of five years.
-
-In the letter, the Centre also asked the States to submit their suggestions by December 6 on augmenting GST collections. They were specifically asked to look into ways to review the items currently exempted from GST, review the tax rates and compensation cess rates on various items, and on improving compliance measures.
-
-These suggestions will be placed before the Committee of Officers from the States and Centre that has been set up to suggest measures to increase collections. 
-
-The government had budgeted for ?6,63,343 crore in GST collections for the current financial year 2019-20, out of which it has collected only about 50% in the first eight months. It had targeted ?1,09,343 crore of compensation cess collections, of which it has so far collected ?64,528 crore. Regarded as one of the greatest batsmen ever, Sachin Ramesh Tendulkar is the mainstay of Indian batting line-up for more than two decades. He is the world's leading run-scorer in both Test (14,692) and ODI (18,111) cricket. In 2011, Tendulkar finally achieved his dream of winning the Cricket World Cup at the Wankhede stadium in Mumbai. It took six World Cup appearances for the 'Little Master' to win the coveted trophy. Tendulkar is the leading century maker in both Test and ODI and has so far scored 99 (51 Test + 48 ODI) international centuries. He also has played highest number of Test and ODI matches. Among many laurels he had won - the most prominent ones are: Padma Vibhushan, India's second highest civilian award, and Rajiv Gandhi Khel Ratna, India's highest sporting honour. Surprisingly after playing for more two decades, Tendulkar won his first ICC cricketer of the year award in 2010. Tendulkar described ‘2010’ as among the best ever in his cricketing career. In February 2010, he became the first batsman to break the 200-run barrier in the one-day cricket. Tendulkar made his Test debut as a 16-year-old against Pakistan at Karachi in November 1989. He then played his first one-day match against the same team in the next month.On May 27, 2017 released the sports docudrama, Sachin: A Billion Dreams, the ‘authorised’ biopic of Sachin Tendulkar. The film was by James Erskine and produced by Ravi Bhagchandka, and captures Tendulkar's cricket and personal life in detail. The film also reveals a few aspects of his life which have never been heard of or seen before. While a game is always bigger than a player, a lot of people will agree that Sachin Tendulkar was the closest thing to threatening that maxim, at least in India where he enjoyed an unprecedented following. His talent and achievements consistent over more than two decades made him a giant of a player, and even years after quitting the game he remains India’s favourite son.
-
-
-A child prodigy, Tendulkar made his Test debut at the age of 16 in 1989 against Pakistan. Later on his first tours of England and Australia with the national team he got a few centuries and stellar cricket pundits from both countries concurred that a batting genius was born.
-
-
-Over the next two decades, almost every record was smashed by the man who could play in any situation; who could drop anchor or weigh anchor with equal dexterity. In 2012, he became the first player to score 100 international tons besides being miles ahead in terms of runs scored in Tests and ODIs. He was also the first player to break the double-hundred barrier in ODIs in 2008 when he achieved the unthinkable in Gwalior against South Africa.
-
-
-Tendulkar’s contribution goes beyond runs and artistry. He didn’t just pile up those runs, he also helped others around him improve their game and contribute in a big way, especially abroad. Consequently post mid-90s, India produced a slew of master batsmen, and while their own talent was undeniable, harnessing in many ways was done by Tendulkar. He retired from international cricket in 2013 and hours after his last game was conferred the highest civilian award in India, the Bharat Ratna, a first for a sportsperson. The 2011 World Cup winner continues to be involved with cricket in one way or another. India has given to the world many a great cricketer but perhaps none as ambitious as Virat Kohli. To meet his ambition, Kohli employed the technical assiduousness of Sachin Tendulkar and fitness that was in the league of top athletes in the world, not just cricketers. As a result, Kohli became the most consistent all-format accumulator of his time, making jaw-dropping chases look easy, and finding, in his own words, the safest possible way to score runs. Plenty of them.
-
-This ambition transferred seamlessly to his captaincy: he demanded more than ever of his bowlers especially the quick ones, often sacrificed a batsman for bowling depth, and led India to a long stay at No. 1 in Test rankings and a first-ever series win in Australia. He is well on his way to end up as India's most successful Test captain.
-
-Barring one in Bangladesh, Kohli scored Test hundreds in and against every country he played. He absolutely smashed records for number of matches taken to reach eight, nine, ten and eleven thousand ODI runs. He was a genuine threat to Sachin Tendulkar's record of 49 ODI and 51 Test hundreds.
-
-An Under-19 world Cup-winning captain, when he burst onto the scene, Kohli was a precocious talent with a cover drive to kill for. He was destined to be India's next big batsman as the Tendulkar era began to retire, but Kohli wanted to be more: a cricketer whom the opposition would be in awe of, a cricketer whose presence would raise the intensity of the contest. He lived every ball, competed each moment, and made sure he had the fitness and strength to do so. He was widely credited for changing the fitness culture in Indian cricket, introducing endurance tests as a criterion for selection.
-
-Kohli was quite simply India's most powerful captain. Centre of every marketing campaign for Indian cricket, he also happened to lead at a time when the BCCI was run by interim administrators who knew better than to draw the ire of Indian cricket's biggest star. There was never any cause to doubt his intent: to do things that will win matches for India, which they did plenty under him. Virat Kohli is an ace batsman in fine form. With 70 international centuries in his bag, the Indian captain will be the danger man when India take on the West Indies in T20 International (T20I) and ODI series, starting on December 6. On his day, Kohli seems impossible to remove from the crease and centuries seem more like a given when he bats, and that is precisely why West Indies coach Phil Simmons has come up with some unique and hilarious strategies to counter the Indian captain's threat.
-
-ADVERTISING
-
-inRead invented by Teads
-
-
-"One, I can make him bat with a stump. Two, we can sign a book and in the ODIs, we can give him a 100 and bowl at the rest of the players," Simmons was quoted as saying to ESPNCricinfo by news agency PTI.
-
-"Or we can make sure that our plans to him are spot on," he added on a more serious note.
-
-"We can make sure that the bowlers don't get too scared of him," he said.
-
-However, Simmons still had another gem to offer.
-
-"But in the end, may be two can bowl at him at the same time," he said, clearly having given a lot of thought on how to send Kohli back to the dugout early.
-
-"You never know what can happen but it's a difficult proposition to get Virat Kohli out," he admitted.
-
-But the West Indies coach remained optimistic about his team's chances against a dominant Indian side.
-
-"Last year we had some T20s and ODIs in India and we weren't miles apart. We had one game where I think we were tied. So we weren't that far apart," he said.
-
-"We have to look back at what we did then and see how much we can add to that now because they have added things to their games. We have to make sure that we have to get better than last time because India is not easy. India is India," he added.
-
-India and West Indies will play a three-match T20I series starting December 6, before playing three ODIs against them starting December 15. Virat Kohli has overtaken Steve Smith to become the No.1 Test batsman in the ICC rankings. Kohli went past Smith thanks to his sterling hundred against Bangladesh in the Day-night Test against Bangladesh at Eden Gardens.
-
-Virat Kohli had held the top spot for a long time before Steve Smith reclaimed the numero uno position with a mind-numbing 774 runs from 4 Tests in the Ashes series against England.
-
-However, while Virat Kohli scored a double hundred against South Africa and a hundred against Bangladesh, Steve Smith managed scores of 4 and 36 in a 2-Test series against Pakistan which was headlined by David Warner and Marnus Labuschagne. Virat Kohli moved back to No.1 from the second spot after Steve Smith dropped points because of his low scores in Brisbane and Adelaide.
-
-Virat Kohli, who has 7202 runs and 27 hundred from 84 Tests, will not play any more Tests in 2019. However, Steve Smith with 7013 runs and 26 hundred from 70 Tests, will get the opportunity to reclaim the top spot in 2 Tests against New Zealand. The third match of the series will be played in the New Year.
-
-David Warner rose 12 spots to 5th on ICC Test rankings after his phenomenal 335 not out in the Adelaide Pink ball Test. His teammate Marnus Labuschagne has also risen to the 8th spot. Notably, he started the year at the 110th spot on the batting charts. Meanwhile, India vice-captain Ajinkya Rahane dropped a spot to 6th after making way for David Warner in the top 5. India now have 3 Indians in the top 10 with Virat Kohli leading the list and Cheteshwar Pujara at 4 and Rahane at the 6th spot.
-
-England captain Joe Root, who was struggling for form, has also returned to the top 10 after his historic double hundred in the Hamilton Test against New Zealand.
-
-Pakistan star Babar Azam rose 2 spots to 13th after some fine outings in Australia. The young batsman hit his 2nd Test hundred in The Gabba Test and followed it up with 97 in the Adelaide Day-night Test. Daring, tough and fiercely talented, Virat Kohli is arguably one of the finest batsmen that the country has produced. He has even drawn comparisons with the great Sachin Tendulkar. With a firm bottom-hand grip and the ability to smash balls landing on a particular area to any part of the ground at will and without much risk, Kohli has carved a niche of his own in Indian cricket. The king of chases as many of his fans have christened him, Kohli is a deeply hammered nail across all formats.
-
-
-Kohli rose to fame when he captained India's victorious World Cup Under-19 side in Malaysia, in 2008. He was immediately propelled into the lucrative Twenty20 tournament - the Indian T20 League in 2008 and has since been a part of the Bangalore franchise. He also went on to become the captain of the team in 2012 and has continued to remain so since then. Devoid of noteworthy performances in the first edition, his domestic form still won him an India ODI cap on the tour to Sri Lanka in the same year.
-
-
-The Delhi lad was initially deployed at various positions in the batting line-up, from replacing Virender Sehwag as an opener to accelerating in the middle-order. After just 25 ODI innings, he had already amassed 9 fifty-plus scores including two centuries. Kohli has always believed in backing his confidence and with the assurance evident in his shot selection and footwork, he was rarely found wanting with his technique even on bowling-friendly surfaces abroad. Once Kohli grew in maturity, especially in the ODIs, lean patches made way for eye-ball grabbing consistency.
-
-
-The aggressive right-hander had a marvellous run in 2010 during which he amassed close to 1000 runs. He did not let his guard down in 2011 by scoring a century in his maiden World Cup match against Bangladesh and contributed decently right throughout the tournament. The wait for a Test cap ended when he was selected for the tour of West Indies in 2011. The strongest evidence of his mettle came early in 2012 during his maiden ton in whites on India's tour to Australia; he put in an intrepid batting display while the others failed. His efforts paid off and Kohli was soon handed over the vice-captaincy of the Indian team ahead of the Asia Cup in 2012. He ended the tournament as the highest run-getter which included a whirlwind 183 off 148 balls against Pakistan.
-
-
-Kohli captained the Indian ODI team for the first time against Sri Lanka in a Triangular ODI series in the Caribbean after an injury ruled MS Dhoni out for three ODIs. He then tasted the success of full-fledged captaincy in Zimbabwe where he marshalled the team in absence of Dhoni, who was rested, and achieved a 5-0 clean sweep over the hosts. He added another feather to his cap when he registered the fastest ODI century by an Indian, off just 52 balls, against Australia in October 2013, Jaipur, helping India chase down a daunting target of 360.
-
-
-In the following year, Kohli single-handedly took India to the finals of the ICC WT20 in Bangladesh but they lost against Sri Lanka at the last hurdle. The next few months would prove to be a massive learning curve for Kohli who was found wanting in the swinging conditions of England. James Anderson was his tormentor as he exposed a distinct weakness outside Kohli’s off stump. He was embarrassed but continued to remain a part of the Test side. In the five-match ODI series against Sri Lanka in November 2014, Kohli led India to a 5-0 routing of the Lankans, making him the first Indian captain to have affected a 5-0 whitewash home and away in ODI cricket.
-
-
-In December 2014, Kohli was made the captain of the Test side for India’s first Test against Australia in Adelaide but lost despite scoring centuries in both innings. On 30th December 2014, having saved the third Test for India against Australia at the MCG, Indian captain MS Dhoni announced his retirement from Tests with immediate effect citing too much strain as the reason, handing over the mantle to Virat Kohli for the fourth and final Test match. Kohli ended his disappointment of the England tour by scoring fantastically in the Australian tour, thereby squashing doubts of his class and technique to last in the longest version.
-
-
-The year 2016 turned out to be Kohli’s best phase by some distance as he plundered runs across formats with his consistency reaching insane levels. He amassed over 2500 international runs at a mind-boggling average of 86.50 with seven centuries and 13 half-centuries from 40 innings. This included a ‘Man of the Tournament’ award in the 2016 World T20 where India made the semifinals. In addition to this, he also racked up a phenomenal 900 runs in the Indian T20 League with an incredible four centuries to his name. During the 2016-17 season, Kohli also became the first batsman to register a double century in four successive Test series, going past the legendary Sir Donald Bradman and Rahul Dravid, both of whom had managed it for three consecutive series. His exploits showed the world that he can dominate in all formats simultaneously without breaking a sweat.
-
-
-After a dreamy 2016-17 season, Virat carried his form to the tour of South Africa in the early part of 2018. Though India lost the series 2-1, his 153 in the second Test at Centurion proved his potential once again in alien conditions. He even took his side to series wins in the limited-overs format, which was a first for India in South Africa. The lad from Delhi went on to become the fastest to reach 10,000 runs in ODI cricket when he reached it in his 205th innings, beating the record holder and compatriot, Sachin Tendulkar who did it in 259 innings. It has not been all personal feats though, the national team has come leaps and bounds under his captaincy. They created history in early 2019 by becoming the first-ever Indian side to register a Test series win over Australia in Australia.
-
-
-Virat rather had a modest 2019 World Cup outing as a batsman, he scored 5 consecutive half-centuries but it came as a big surprise that a batsman of his stature didn't convert any into a hundred. Though India led under his leadership finished at the top of the points-table in the group stages of the tournament, India's campaign ultimately ended after a close defeat against New Zealand in the semi-finals.
-
-
-Drawing comparisons to greats have never made Virat Kohli lose his work ethic. Having in mind his excellent fitness and ability to adapt to all formats without any fuss, it will not come as a surprise if he ends up owning most batting records by the time he brings the curtains down on his career. A spunky, chubby teenager with gelled hair shot to fame after leading India to glory in the Under-19 World Cup at Kuala Lumpur in early 2008. In an Indian team filled with saint-like icons worthy of their own hagiographies, Virat Kohli, with his most un-Indian, 'bad-boy' intensity, would clearly be an outcast. He soon joined the senior Men in Blue in Sri Lanka, come August 2008. In the absence of the regular openers, Virat Kohli was given a chance to open the batting in the ODI series. He played some commendable knocks in his extended run as an opener, as India went on to win the ODI series. However, the established and formidable pair of Tendulkar and Sehwag kept Kohli out of the team
-
-The 20-year-old continued to impress for Delhi and dominated attacks, clearly demonstrating that he belonged at a much higher level; that junior cricket was beneath his standards. Kohli then traveled to Australia in 2009 for the Emerging players tournament and stamped his authority all over the bowling attacks. He added 'big-match temperament' to his résumé too, lacing a fluent hundred in the final against South Africa, and guiding his team to a clinical victory. The young prodigy, barely old enough to receive his man-of-the-match champagne, ended the tournament with 398 runs from 7 outings with two centuries and two fifties, ensuring that he remained fresh in the selectors' minds. The selectors had no choice but to give Kohli another go in the Indian side, and this time he strung together a number of impressive scores. After being given an extended run, he repaid their faith by notching up his maiden ODI hundred in an impressive run-chase against Sri Lanka in December 2009 - his first of many exemplary knocks in run-chases. In the World Cup final of 2011, the biggest stage of them all, Kohli, along with his Delhi teammate Gautam Gambhir, pulled off a largely underrated rescue effort with an 83-run stand after losing the openers early. This knock played a crucial role in setting the platform for MS Dhoni's fabled knock of 91*, which eventually won India the World Cup on that enchanting evening in Mumbai.
-
-In the hangover of the World Cup euphoria, Kohli continued to take giant strides in the limited-overs format. Three years after his ODI debut, he was finally handed the coveted Test cap in the Caribbean islands in July 2011, owing to the need to rest the senior players. After a series each against the Dukes ball and the SG ball, it was now time for his trial against the Kookaburra Down Under. In the first two Tests, he seemed to lack the technique to play in Australia, maintaining his low stance on the bouncy tracks. He also had a rather restricting trigger movement with his front-foot routinely coming across towards off-stump, thereby hindering the necessary movement to play back-foot shots such as the pull and the cut. The selectors and the captain persisted with him going into the 3rd Test, and he delivered a break-through performance on a bouncy Perth wicket - an impressive 75 - where a visible change in technique was visible. He managed to stand tall, with a more open stance, and exhibited the back-foot shots in his repertoire during the course of the innings. The volatile Kohli managed to overshadow his impropriety in conduct with his performance in the final Test of the series. Notching up India's only century of a disastrous tour, Kohli was the shining light in amidst the chaos, as he stroked his way to a hundred in Adelaide exhibiting the will to improve and extraordinary focus under pressure in the searing heat and pressure of Australia.
-
-While he grappled and clawed his way into the Test side, he went on a record-breaking spree in ODIs: the Indian record for the fastest to multiples-of-thousand runs in ODIs, culminating in the world record for the fastest to 9000 runs in ODIs. He was also the highest run-scorer for India in ODIs for three consecutive calendar years - 2010, 2011 and 2012 and won the ICC ODI cricketer of the year award in 2012. We remember the accolades, but where did it all begin? There's always the one innings that made the world sit up and take notice; the 86-ball knock which he started off as a brash boy, but ended as a man. Chasing an improbable target of 321 off 40 overs to stay alive in the tournament, he laid into the Sri Lankan bowlers and carted his way to 133*, getting India home with more than 2 overs to spare, practically pulling them out of the airport after M.S. Dhoni rather ignorantly remarked that India had already been eliminated from the tournament.
-
-King Kohli had arrived. The king of the run-chase, and a plethora of ODI records in the modern age. Kohli has a seemingly hot head on his shoulders, but he channels all his anger while he is batting. Known to be an aggressive batsman always on the lookout for runs, he has a fairly sound , albeit slightly unconventional technique, which makes him judge the length of the ball earlier than most, and amazingly quick wrists to run his hands through the ball, even against fast bowlers. He is equally adept against pace and spin, and never looks ungainly at the crease. With nimble foot-movement against the spinners, he is known to be quite destructive when the situation demands it. He has had to fill some rather big shoes of his predecessors, and has done an admirable job to say the least. However, his slightly unconventional bottom-hand technique results in some technical shortcomings and lack of versatility. Kohli has dealt with swing bowling well, which is late and difficult to pick, but still less abrupt than seam bowling, which is almost unnatural and catches you off-guard. He is, without a doubt, one of the most gifted cricketers who has also worked very hard on his game and fitness. As a result, he picks the length early and has a swift and decisive backward or forward movement. However, he picks up the line early too, and as a result, reacts to it equally early. This is quite amazing in itself; however, on pitches lacking true bounce and aiding seam movement, it brings about his downfall. Virat tends to 'run his hands through the ball' beside him rather than punching it late under his line of vision (a virtue that his compatriot Ajinkya Rahane excels at). He proved his credentials as a Test batsman on the tour of South Africa when he scored a sensational first innings hundred in Johannesburg in the first Test to bail India out of trouble and backed it up with a 96 in the second innings. Although Kohli wasn't exposed to the new ball, with Cheteshwar Pujara and Murali Vijay bunting the shine off it, it was an excellent innings against a formidable bowling line-up. He continued his good form in New Zealand as well and ended the tour on a high with an unbeaten century.
-
-However, against the raised seam of the Dukes ball and the skillful bowling of Anderson, Kohli's technical shortcomings were exposed when India toured England in 2014 for a grueling 5-Test series. He scored just 134 runs in ten innings, edging the ball to the slips by reaching out for it, and showing poor awareness of his off-stump; rather surprising for a batsman of his calibre. It was worrying that India's star batsman had failed them in trying conditions.
-
-He continues his struggles when exposed to the new ball and on 'sticky wickets'. His quiet series against South Africa in late 2015 was full of rank-turners; his injury-marred series against Australia in early 2017 had several wickets that were not conducive to batting; and the England series in 2014, of course. Barring that, the glaring dips in his batting, or 'aberrations', such as Brisbane 2014, Gros Islet 2016, and Pune 2017, have all come in difficult batting conditions, and he has been dismissed – believe it or not – by a chink in his batting technique. With regular captain MS Dhoni ailing from an injury, Kohli was named stand-in captain for the first Test at Adelaide. After an abysmal tour of England, critics were sceptical of Kohli's performance in Australia in the Border-Gavaskar trophy in December. Kohli proved that they couldn't have been more wrong, as he scored two fluent hundreds in the first Test at Adelaide. His second innings masterclass of 141 almost pulled off a stunning run-chase on a notorious 5th day rank-turner, and went on to score a total of four hundreds on this tour. Saying that he had silenced critics would be an understatement; however, his technique of playing beside the ball, and the bat coming down from gully rather than slip continued to bother him whenever exposed to late lateral movement.
-
-As India prepared for their title defence ahead of the 2015 World Cup Down Under, with the catch phrase 'Won't give it back' doing the rounds, Virat Kohli was touted to be a key performer for India. The Indians had a terrible run in Australia, having failed to win a single match in the Test series as well as the succeeding ODI tri-series. Kohli started off in signature fashion, with a typically stroke-filled hundred against Pakistan as India maintained their unbeaten run against their arch-rivals in ICC events. As India stormed into the semi-finals unbeaten, Kohli's form continued to take an uncharacteristic dip, culminating in a painstaking 1 in the semi-final loss against the co-hosts and eventual champions, Australia.
-
-Kohli, now the full-time Test captain, toured Sri Lanka with a young side without the services of Mahendra Singh Dhoni, wary of the Sri Lankan spinners' fabled 4th innings con-job. After losing the first Test, Kohli's India recorded a dramatic come-from-behind win in the series, going on to win 2-1. Kohli continued to build on his auspicious start to Test captaincy as he led them to a rout of the South Africans on a series of rank-turners all around India. He had a quiet series with the bat, as the more stoic batsmen of his team took over. Nonetheless, the triumph took India to the No. 1 spot in the ICC Test rankings for the first time since they forfeited it to England after the forgettable white-wash in 2011.
-With regular captain MS Dhoni ailing from an injury, Kohli was named stand-in captain for the first Test at Adelaide. After an abysmal tour of England, critics were sceptical of Kohli's performance in Australia in the Border-Gavaskar trophy in December. Kohli proved that they couldn't have been more wrong, as he scored two fluent hundreds in the first Test at Adelaide. His second innings masterclass of 141 almost pulled off a stunning run-chase on a notorious 5th day rank-turner, and went on to score a total of four hundreds on this tour. Saying that he had silenced critics would be an understatement; however, his technique of playing beside the ball, and the bat coming down from gully rather than slip continued to bother him whenever exposed to late lateral movement.
-
-As India prepared for their title defence ahead of the 2015 World Cup Down Under, with the catch phrase 'Won't give it back' doing the rounds, Virat Kohli was touted to be a key performer for India. The Indians had a terrible run in Australia, having failed to win a single match in the Test series as well as the succeeding ODI tri-series. Kohli started off in signature fashion, with a typically stroke-filled hundred against Pakistan as India maintained their unbeaten run against their arch-rivals in ICC events. As India stormed into the semi-finals unbeaten, Kohli's form continued to take an uncharacteristic dip, culminating in a painstaking 1 in the semi-final loss against the co-hosts and eventual champions, Australia.
-
-Kohli, now the full-time Test captain, toured Sri Lanka with a young side without the services of Mahendra Singh Dhoni, wary of the Sri Lankan spinners' fabled 4th innings con-job. After losing the first Test, Kohli's India recorded a dramatic come-from-behind win in the series, going on to win 2-1. Kohli continued to build on his auspicious start to Test captaincy as he led them to a rout of the South Africans on a series of rank-turners all around India. He had a quiet series with the bat, as the more stoic batsmen of his team took over. Nonetheless, the triumph took India to the No. 1 spot in the ICC Test rankings for the first time since they forfeited it to England after the forgettable white-wash in 2011.
-He continued his emphatic run in the World T20, batting (and running) like a man possessed, thrashing boundaries with ridiculous ease. Despite an 89* in the semi-final against the West Indies (extending his inhuman run of form in the format), India's bowling panicked at a crucial stage. One had to feel sorry for him as he had to make do with the 'Player of the tournament' award for the second successive Twenty20 World Cup; a distinction he would've gladly exchanged for the elusive World T20 trophy. Kohli's thirst for runs showed no signs of slowing down as he looted a small matter of 973 runs during the 2016 edition of the Indian Premier League, the most (by far) by any batsman in the history of the tournament - as he led his Royal Challengers Bangalore (RCB) franchise to a runners-up finish. India's tour to South Africa in early 2018, their first major away Test assignment since Australia 2014 (before the 2015 World Cup), offers a new challenge: given a green track, is Virat really as good against the new ball? Is he good enough to play it out in case there are a few quick wickets? He has been protected from the new ball by a stoic Vijay and a solid Pujara until now. However, to make the ascent from 'good' to 'great', Virat Kohli has to prove to the world that he doesn't need to be protected against the new ball; that he is a versatile batsman capable of the grind against the moving ball.
-
-However, it isn't beyond Kohli to prove his critics wrong yet again, as he continues to take criticism on his stride, setting new standards for modern batsmanship. He already possesses an insatiable appetite for runs; and if he can correct this small chink in his armour and adjust his technique to play late and more compact shots in front of him, rather than beside him, then no force could stop him from becoming the perfect batsman. And as a captain, ruthless as he has been at home, if he can hand India the elusive Test series wins in Australia and South Africa, 'unprecedented' won't even begin to describe the extent of his achievements as a leader. In the first week of 2018, Kohli went on to lead India in South Africa, a few weeks after he tied the knot with Indian actress and long-time girlfriend, Anushka Sharma. India went on to concede the series in the first two Tests, but came back to win the third Test match on a difficult wicket. In a series full of difficult wickets, Kohli exhibited tighter technique than he had in England, and batted better than he did in his more prolific tour of South Africa in 2013/14. Kohli went on to conquer his (personal) final frontier in England later in 2018 too, scoring 593 runs in 10 innings, including 2 hundreds, and not conceding his wicket to his fabled nemesis, Anderson, even once. India went on to lose the series 1-4, and Kohli's record as captain was tainted by two consecutive Test series losses away.
-
-Nevertheless, on a personal level, he had left no stone unturned to transform himself into the most consistent and versatile batsman of his age, and arguably the better of the Big Four. In October 2018, during the second of 3 consecutive hundreds against the West Indies in ODIs, he went on to become the fastest batsmen to reach the 10,000-run mark in ODIs, trouncing Sachin Tendulkar by a staggering 54 innings. Despite arguments about the two new balls, better bats, batting-friendly conditions, and more lethal bowlers, it was difficult to deny that this was a statistical outlier, very much along the lines of 99.94 - perhaps unlikely to ever be trounced.
-
-However, being a cricket romantic (as we all are), as we reflect on his prolific international career (and with a plethora of records to be broken over the next decade) one must look back at the CB series knock that changed it all. On that fateful night at Hobart, Kohli had not only kept his team in contention, he had actually dragged a drained Indian side out of the airport. That night, at the Bellerive Oval, Virat Kohli transcended into a league of his own to etch his name in history - and a cricketing superstar was born. Ahead of the 2019 edition of the Indian Premier League (IPL), Virat Kohli showed how much faith he had in the franchise by declaring that he would perhaps end his career with the Bangalore-based Royal Challengers. The only player to be a part of a single franchise for the entire duration of the tournament (right from the start of the cash-rich league in 2008), Kohli has developed an affection with the franchise and with the fans over the period of time.
-
-Having been brought into the franchise as a young emerging player in 2008, Kohli's growth has been stupendous. He learnt under the wings of Rahul Dravid and Anil Kumble, before finally establishing himself under Daniel Vettori. It wasn't a free-flowing start, in a team that was struggling to find the essence of the tournament, it wasn't a surprise that they had a struggling youngster in the midst. Having learnt the ropes in the first three-year cycle, it wasn't a surprise that he was the only player retained in 2011. The purple patch began somewhere around that region, he then proved it wasn't just a purple patch, it was a career that was beginning to flourish. Soon after, Kohli became the best in all aspects, not just white-ball cricket, but in the red-ball version as well.
-
-It became a no-brainer when he was asked to captain the Bangalore franchise on a permanent basis from 2012 and it also translated into more consistency with the bat. Kohli soon turned into a fan favourite even as runs flowed from his bat. Circa, 2016 - the India and RCB captain blasted 973 runs - the most by any player in the history of the game and it included four hundreds - the most by a batsman in a single edition. Alas, all this didn't translate into a title triumph - one that has kept Kohli and Bangalore waiting
-Arguably one of the finest ODI batsmen of all-time, and certainly the greatest of his generation, Virat Kohli has played two senior World Cups after leading the junior team to the title in 2008. In 2011, on his World Cup debut, Kohli played second fiddle to Virender Sehwag on his way to a fluent hundred against Bangladesh. After a great innings to start with, Kohli had a quiet World Cup before scoring an important 35 in the final to rescue the chase with Gambhir and lay the foundation for a second World Cup triumph. In the 2015 edition, Kohli was fully primed as India's best limited-overs batsman with several solid performances under his belt and started off in fine fashion with a stable hundred against Pakistan. After a 46 against South Africa, his form took a dip during the latter stages of the World Cup before culminating in a 13-ball 1 as India crashed out of the World Cup in the semi-final. His ODI average in the 2017/18 ODI season has been a Bradmanesque 97.5, and he has amassed an unreal 19 hundreds since the 2015 World Cup. After the low of the World Cup ouster in 2015, Kohli leads the Indian side this time, with perhaps the strongest ODI team in the world, and as this generation's greatest ODI batsman. Who’s the greatest batsman in the world?
-
-Sachin Tendulkar and Brian Lara are the names that come to mind immediately. Ponting perhaps. Maybe Kallis. Run machines, we call them. And if you’ve watched them bat, you’re likely to agree. They were so good at their craft that they had basically invented their own technique...
-
-However, there exists another breed of cricketers in the same league who have had to rely more on hard work rather than cricketing aptitude. They tend to develop a standard technique like a computer-based batting simulator would. Through hard work and perseverance, they have crafted an airtight technique through conventional means and made it work in international cricket; a technique so perfect and versatile that it suits all conditions, and works equally well in attack and defense.
-
-Rahul Dravid, also known as, the Wall – a rather clever term coined by a journalist, according to Dravid himself, that could later be modified, depending on his batting form. Prospective modifications include “crack in the wall” or “hole in the wall”. Nevertheless, if there was ever a batting technique that could be used as a blueprint to create a computer simulation for cricket shots, it has to be Rahul Dravid’s.
-
-A blistering 95 on debut at Lord’s, perhaps overshadowed by Sourav Ganguly’s 131. A gritty 217 at the Oval in 2002, a chanceless, flawless 148 on a green Leeds surface, shielding the middle-order from the live-grass and paving the way for Ganguly’s fluent 128 and Tendulkar’s flamboyant 193. It’s not often that a Sachin knock gets overshadowed, but Dravid’s 148 was probably the best knock he’s ever played; even better than each of his 5 double-hundreds. I say this because most gritty knocks on green surfaces are accompanied by a bit of luck. This required nothing. It is chance-less. No plays and misses, a couple of close leaves, but Dravid had the edge throughout. And he won the battle, having played out the new ball and scored a century.
-
-In 2007, India won the series under his leadership (although in terms of batting this tour wasn’t up to his standards: 1 fifty in 6 innings). However, he still looked comfortable while batting, especially with the first part of his job: shielding the middle-order from the new ball in case the openers fail.
-
-And 2011 was just a one-man show. Sachin showed up and made 3 fifties, including a 90 at the Oval, but it was Dravid, with 3 hundreds, including one at Lord’s that he missed out on on his debut, who ran a one-man show in England as the other aging stalwarts of the Indian team had fitness issues and failed miserably. In Nottingham, he carried the bat throughout the innings for a hundred, opened the batting again when the follow-on was enforced.
-
-So clearly, a man with a high-back lift has managed to do quite well in England. Specifically against the new-ball on fresh grassy surfaces. It doesn’t get more challenging than that for a subcontinent batsman who has grown up using his feet to get to the pitch of the ball on rank turners.
-
-Rahul Dravid was perhaps the best in the world at handling the first part of the number 3 batsman’s job: shielding the stroke-makers and the stars from the new ball. Several celebrated batsmen owe him their hundreds and double-hundreds to Rahul Dravid, who has pulled off countless blockathons and leaveathons to see off vicious spells on treacherous seaming wickets.
-
-For a major part of the 2000s decade, he did the first part of his task and then proceeded to make big runs for the team too. He did go through a dry spell individually when he started getting out to the left-arm quick; not because he had a technical chink, but because he was getting beaten by unplayable deliveries and was going through an inevitable dip in form. The heavy run-scoring wasn’t really happening, owing to which he adjusted his technique, started playing late with his fore-arms.
-
-He realized his wrists weren’t as strong as before and started focusing on 'economy of movement' and check-drives rather than running his hands through the ball. By the time India toured New Zealand and England in 2009 and 2011 respectively, he was back at his best at the ripe age of 38, protecting the middle-order stroke-players from the new ball, as well as scoring hundreds in England like he spent his childhood batting on a wet, skiddy Nottingham strip.
-
-I think its quite clear how important Rahul Dravid was to the Indian team. He did every thankless job for the team, such as protecting the middle-order from the new ball, in addition to scoring runs. Of course, people only look at the runs. Sachin’s 193 features above Dravid’s 148 in that Leed’s Test scorecard. It was Sachin’s innings that stole the limelight because he went past the Don’s century tally. But the team knew what Dravid’s innings was worth.
-
-This is a taboo topic in India, but Sachin would have found it much more difficult to make that 30th hundred, if Rahul Dravid had been dismissed sooner. I’m not saying that he wouldn’t have made a hundred. Sachin’s skill against the new ball and the old ball are unquestionable (his countless one-man-shows in the 90s). Lone performances by Sachin became the trend of Indian scorecards in the 90s. In the 2000s, however, Sachin suddenly had a support structure. He could play freely, and he could become one of many forces to reckon with in the Indian middle order. The aforementioned support structure happened to be Rahul Sharad Dravid – the new symbol of solidity and grit in the Indian batting line-up of the 21st century.
-
-Dravid’s whole career reflected that of an unsung hero: do the hard work for the team, get overshadowed by a (metaphorically) colossal figure, and just walk away with a modest smile on your face.
-
-Rahul Dravid was basically Sachin from the ’90s: A middle-order batsman facing the new ball and grinding it out to protect the middle-order so that the giants can come in and play their shots. He, however, had more capable and stable batsmen to support him, and a captain that understood him and stood by him.
-
-He has done so much for Indian cricket. Not just as a batsman, but as a captain as well. His versatility is unquestionable, with his numbers, his countless innings of glory – 93 in the Perth victory of 2008, 233 and 72* at Adelaide, 270 at Rawalpindi (out reverse-sweeping to a part-timer just to up the scoring rate, with no regard to a potential 300) and the list goes on.
-
-It’s all about getting the timing right. When do you show your technical prowess? When do you start playing your shots? Is this the right time to bat aggressively? Are you sure you have enough knowledge of the conditions to take risks now? That’s the kind of question an egocentric man can never answer truthfully. “Mujhe pataa hai.” will be the first words out of his mouth. “India Under-19 ke liye khela hoon mai.”
-
-But Rahul Dravid is anything but delusional.
-
-In a team with a genius like Sachin, a sorcerer like Laxman, swashbucklers like Sehwag and Dhoni, and the ever-so-volatile Sourav Ganguly, India needed a stabilizer. And they found one in Rahul Dravid.
-
-He is still remembered for some of the slowest innings he has played: 21 off 140 at Nagpur, waving his bat after scoring his first run in 40 balls, to name a few. He was even hated for declaring with the nation’s beloved Sachin Tendulkar on 194*.
-
-Rahul Dravid, deserves to be remembered, for always, come what may, putting the team ahead of himself. For genuinely not caring what people thought about him as long as India won. The stable, humble man full of resolve and aggression, known even in Indian Pop Culture as Mr. Dependable, was one of the best things that happened to Indian cricket. Rahul Dravid was probably one of the last classical Test match batsmen. His progress into the national side may have been steady and methodical rather than meteoric, but once there, Dravid established himself at the vanguard of a new, defiant generation that were no longer easybeats away from home. Armed with an orthodox technique drilled into him by Keki Tarapore, he became the cement that held the foundations firm while the flair players expressed themselves. Yet, for a man quickly stereotyped as one-paced and one-dimensional, he too could stroke the ball around when the mood struck him.
-
-Never a natural athlete, he compensated with sheer hard work and powers of concentration that were almost yogic. At Adelaide in 2003, when India won a Test in Australia for the first time in a generation, he batted 835 minutes over two innings. A few months later, he was at the crease more than 12 hours for the 270 that clinched India's first series win in Pakistan. Initially seen as a liability in the one-day arena, he retooled his game over the years to become an adept middle-order finisher. The heaves and swipes didn't come naturally, but by the time the selectors eased him aside in early 2008, he had more than 10,000 runs to his name in the 50-over game. There had also been a lengthy phase where he donned the wicketkeeping gloves, helping the team to find a balance that was crucial in the run to the World Cup final in 2003.
-
-However, it's his Test exploits that he will be most remembered for. After impressing in a Lord's debut where he was eclipsed by Sourav Ganguly, Dravid's breakthrough innings arrived at the Wanderers a few months later, against a South African attack accustomed to bullying visitors. A brief slump followed, but he emerged from that with perhaps one of the most famous supporting acts of all, to VVS Laxman in an Eden Gardens Test that rejuvenated Indian cricket. The half decade that followed was a golden one with the bat, as tours of England and Australia realised more than 600 runs.
-
-A two-year stint as captain, following Ganguly's axing, was less successful, though he did lead the side to series victories in England and the West Indies for the first time in a generation. Just when it seemed his best was behind him, Dravid showed his class once again on the tour to England in 2011. In a series in which India were completely outplayed and none of their other batsmen scored more than 275 runs in the Tests, Dravid amassed 461, including three hundreds, two of them when opening the innings against a high-quality pace attack. However, that was followed by a poor series in Australia, which turned out to be his last, as he announced his retirement soon after returning to India.
-
-Dravid's immense levels of concentration also came in handy when he was standing in the slips. Most of his catches were taken in that cordon as he overtook Mark Waugh to become the most successful slip catcher in history. Known as 'the Wall' due to his ability to bat for long, Rahul Dravid has been the batting mainstay of Indian Test team since he first arrived at the international scene in 1996. Dravid is regarded as one of the most technically sound batsmen of his time. He has so far amassed more than 12,000 runs in Tests and 10,000 runs in ODIs. He holds the record of being the only batsman to score a century in all ten Test playing nations. Dravid made his Test debut against England at Lords in June 1996 and scored 95. Till now, he has scored 31 centuries and 59 fifties in 150 Test matches. He is the third batsman to score more than 12,000 runs in Test cricket. Dravid played his first one-day international against Sri Lanka in April 1996 and in 2007, he became the sixth player and the third Indian to score 10,000 runs in ODI cricket. Dravid has been involved in more than 80 century partnerships and stitched 19 century partnerships with Sachin Tendulkar - a world record. Dravid was awarded the ICC Player of the Year and the Test Player of the Year in 2004. He is one of India’s potential fast bowlers who everyone thought would make it big. But Kamlesh Nagarkoti has been sidelined by injuries and have missed cricket for almost two years now. The soon-to-turn 20, however, has not lost heart and is fast approaching the end of the black tunnel.
-
-The Rajasthan pacer is nearing the final stage of his recuperation and his mentor Rahul Dravid has told him the story of Australia pacer Pat Cummins who too was pushed into the wilderness by injuries but returned to become the No.1 bowler in Test. Nagarkoti impressed during India’s Under-19 campaign in New Zealand in early 2018 but hasn’t played after February the same year. Dravid, the coach of that team, has been mentoring the youngster and he has boosted the latter’s psyche by drawing the comparison of Cummins whenever he has met him at the National Cricket Academy (NCA) in Bengaluru. “At the start when I got injured, it was difficult to come out of it. But, I would talk with Dravid sir, my coaches, and the motivation I used to get from them, small, small things… I used to learn. I wasn’t playing due to the injury, so whatever motivation I could gain by talking with Dravid sir, I took it and that helped me to get confidence,” Nagarkoti was quoted as saying by Cricbuzz.
-
-Elaborating how Dravid encouraged him during his injury days, Nagarkoti said: “When I was at the NCA, Dravid used to come and talk to me. He had told me ‘Pat Cummins too took 3-4 years to make a comeback (after suffering from injuries), so don’t think that you haven’t played cricket for about two years.”
-
-Just keep your focus and wait for your chance and don’t get frustrated, don’t feel negative that you aren’t playing but your (Under-19) team-mates are playing. Everyone goes through such a time. Be patient and try to improve as much as you can, and during such a time you get the chance to learn a lot of things. Just wait for your chance,” he added.
-
-Nagarkoti, along with Shivam Mavi, had surprised the cricketing world by generating some serious pace during the U-19 World Cup in New Zealand. Making it 140-plus kph was not unusual for the duo and soon they both got offers from Kolkata Knight Riders in the Indian Premier League.
-
-But it was all about misfortunes soon as Nagarkoti nor just missed the IPL 2018 because of a foot injury but also the domestic season the same year and then the entire 2019 because of a back problem. Soccer star David Beckham has played for Manchester United, England, Real Madrid and the L.A. Galaxy. He is married to Victoria Beckham, also known as Posh from the Spice Girls. A phenom almost from the moment he could first kick a soccer ball, David Beckham began playing for Manchester United, England's legendary soccer team, at age 18, and was a starter by age 20. In 2007, he signed a five-year, $250 million contract with the L.A. Galaxy. In May 2013, he announced plans to retire. Born on May 2, 1975, in Leytonstone, London, England, to parents Ted Beckham, an appliance repairman, and his wife Sandra, a hair stylist, David Beckham was the family's only son. A middle child between two sisters, Beckham grew up with parents and siblings who were committed fans of Manchester United, England's legendary soccer franchise. 
-
-At an early age, Beckham showed his own promise as a footballer, winning the coveted Bobby Charlton Soccer Schools National Skills competition at 11 years old. His talent soon caught the notice of Manchester United team officials, who asked him to try out for the club's youth league. By the age of 16, Beckham had left home and was playing for United's training division. Two years later he made the club, and by 1995, he was a full-time starter. Beckham wasted little time in making a splash on the English soccer landscape. The talented goal scorer was named the Professional Footballers' Association Young Player of the Year in 1997. A year later, he was one of the leading faces of England's World Cup team. In 1998, Beckham, who'd already signed a deal with Adidas, netted $13 million in endorsement deals. 
-
-In 1999, he led Manchester United to the Premier League title, the FA Cup championship and the Champions League title. Thanks to a last-minute free kick against Greece in 2001, England qualified for the 2002 World Cup. That same year, Beckham signed a three-year $22 million contract to remain with Manchester United.
-
-But Beckham's time with United proved to be shorter than anyone thought. In 2003, he was acquired by Real Madrid in a stunner of a deal that brought to light Beckham's growing rift with Manchester's manager, Sir Alex Ferguson.
-
-Spanish soccer fans were thrilled to have their archrival join their team. Americans, meanwhile, were just getting to know him with the release of the movie, Bend It Like Beckham (2002), a movie that tells the story of a young girl who bucks her family's traditional ways and falls in love with English soccer. America's fascination with Beckham and his decade of dominance culminated in 2007 when the soccer great moved across the Atlantic to sign a reported five-year, $250 million deal with the L.A. Galaxy. The relocation was as much about giving Victoria Beckham's career a boost (she helped drive the decision to move to the States) as it was to give America's Major League Soccer a shot in the arm. Within 48 hours of the signing, the Galaxy sold more than 5,000 season tickets.
-
-Beckham's career after moving to the United States, however, was been a rocky one. He was beset by injuries, spraining a knee ligament his first season in L.A., and later missed out on a chance to play in the 2010 World Cup because of an Achilles tendon injury.
-
-In 2012, Beckham furthered his success by venturing into a new commercial endeavor, starting an underwear line for the company H&M. As part of Beckham's marketing campaign with H&M, six 10-foot statues of the soccer star in his underwear were installed in New York City; others were installed in Los Angeles and San Francisco. On May 16, 2013 — just days after winning a title with French club Paris Saint-Germain — the 38-year-old Beckham announced that he would be retiring at the end of the 2013 season, ending his 21-year soccer career.
-
-"I wouldn't have achieved what I have done today without my family. I'm grateful for my parents' sacrifice, which made me realize my dreams," Beckham said in a statement. "I owe everything to Victoria and the kids, who have given me the inspiration and support to play at the highest level for such a long period... If you had told me as a young boy I would have played for and won trophies with my boyhood club Manchester United, proudly captained and played for my country over 100 times and lined up for some of the biggest clubs in the world, I would have told you it was a fantasy. I'm fortunate to have realized those dreams."
-
-By 2013, Beckham had become credited as England's wealthiest sportsman, reportedly earning more than $46 million annually. The following year Beckham announced plans — along with fellow investors — to expand the Major League Soccer franchise with a new team in Miami. Beckham has been involved in numerous charity work over the years, most notably serving as a UNICEF UK ambassador in the arena of children and sports development. In 1997, Beckham met Victoria Adams, also known as "Posh Spice" of the Spice Girls. The two quickly fell in love, and on March 4, 1999, they had their first child, a son they named Brooklyn Joseph. Two months later, Beckham and Victoria tied the knot at a lavish $800,000 wedding at a castle outside of Dublin, Ireland. The couple went on to have three more children: sons Romeo and Cruz and daughter Harper. David Beckham OBE, born 2 May 1975, is a retired English footballer who has played for Manchester United, Preston North End, Real Madrid, Milan, Los Angeles Galaxy, Paris Saint-Germain, and the England national team, for which he holds the appearance record for an outfield player. He is also widely known for being the face of various multinational corporations including Adidas, as well as his marriage with Victoria Beckham , making them both fashion icons. 
-
-In international football, Beckham made his England debut on 1 September 1996, at the age of 21. He was captain for six years during which he played 58 times. He made 115 career appearances in total, appearing at three FIFA World Cup tournaments. Renowned for his range of passing and bending free kicks, he has twice been runner-up for FIFA World Player of the Year, and in 2004 he was named in the FIFA 100 list of the world's greatest living players. Consistently ranked among the sport's highest earners, in 2013 Beckham was listed as the best paid player in the world, earning over $50 million in the previous 12 months.
-
-Beckham became known as a fashion icon, and together with his wife Victoria became lucrative spokespeople sought after by clothing designers, health and fitness specialists, fashion magazines, perfume and cosmetics manufacturers, hair stylists, exercise promoters, and spa and recreation companies. Most recently, he designed a range of underwear and loungewear for fast fashion giant H&M, has starred with wife Victoria in advertisements for Armani and was announced as the new Ambassadorial president of the British Fashion Council . He has also launched a beauty line House 99 with L'Oréal.
-
-He lives in London with Victoria Beckham and their four children. Beckham announced his retirement from soccer after a five-month stay at Paris Saint-Germain, where Becks won his tenth league title to put a bow on his decorated 21-year career. Beckham donated his $5.3 million salary at PSG to a children's charity. He can afford it. The British icon banked $42 million from commercial endorsements from sponsors including Adidas, Coty, H&M, Sainsbury's, Samsung and his newest partner, Breitling. Beckham will be busy in retirement. He signed a multi-year deal to become an ambassador for the Chinese Super League, a role which will see him make three trips in 2013 to the country and play an exhibition game. He also plans to buy an MLS team, a contractual right he was granted when he joined the league in 2007. Sunil Chhetri is a professional footballer from India, who belongs to the Bengaluru FC in the domestic format of the game. He is a striker for the Bengaluru team and an all-time top goal-scorer for the national team. As of 2018, he has managed to score 59 goals in the 99 games he played, and is the captain of India’s national team.
-
-Sunil debuted into professional football at Mohun Bagan in 2002 and then moved to JCT where he scored 21 goals in 48 games. In 2007 and 2009, he helped India win the Nehru Cup and the SAFF Championship in 2011.
-
-He has been named AIFF Player of the Year four times in 2007, 2011, 2013 and 2014. Chhetri is set to become the second Indian footballer after Bhaichung Bhutia (104 caps) to play 100 matches for the national team. India football captain Sunil Chhetri has joined his cricket counterpart Virat Kohli in turning a vegan, saying giving up meat and dairy products has helped him staying fitter.
-
-"I have become vegan -- I don't take dairy or meat. It has helped me a lot in terms of recovery and digestion," the Indian who has scored a record 72 international goals told AIFF in an interview.
-
-Last year, Kohli had adopted a plant-based diet and Chhetri said his awareness came during a stint with Sporting Lisbon in 2013.
-
-"When I was in Kansas in the US, there was a slight change (in diet) but as I said as I was young, I didn't go deep into it. I followed it but not religiously. Then when I went to Sporting Lisbon, I saw that it's common in Europe about what they eat. It was there that I became stricter," he recalled.
-
-Chhetri further said he gave up sweets for about two and half years and acknowledged the support of his wife Sonam, who is a non-vegetarian.
-
-"I have indulged (in sweets) only on two momentous occasions -- the first time I gave in was after Bengaluru FC won the Indian Super League and the next time I had a bite was after we drew our away match with Qatar," he said.
-
-"You need to understand what works best for your own body. In fact, there have been occasions when people put slices of cake in my mouth. But I never gulped (smiles)," he said. On how he maintains balance at home, Chhetri said, "She (Sonam) is not a vegan, and every now and then, she enjoys her prawns, and fish curries too. I am so much in peace that I did get married to her. The support from home has stayed the bedrock."
-
-The 35-year-old Indian said he is more aware of what goes inside.
-
-"When I was 25 and I was told to eat 6 pieces of potato every day, someday it would be 8, someday it would be 10. Not that it's going to make a big difference. But now when I am told by my nutritionist that you get to eat 6 pieces a day, it's 6. Done!," he said.
-
-"These things really help you when you grow older because by now you have understood what works for you, and it's easier to be more disciplined. That is where probably when people who are 30 plus do well."
-
-Chhetri said his teammates have also become more aware of the diet now.
-"The most significant change I have witnessed in the national team is the diet. The current crop of boys knows what to eat, how much to eat, and when to eat," he said ahead of their Tuesday's group E World Cup qualifier against Bangladesh.
-
-"They understand what is beneficial for them, and most importantly they stick to it. And it doesn't end with the national team. It is percolating down to the Clubs, and age group players as well," he concluded. Captain of the Indian national team, Sunil Chhetri is an Indian professional footballer who was born on 3rd August 1984 in Secunderabad, India.
-
- 
-
-He plays as a striker for the Indian national team and Indian club Bengaluru FC. He is the most-capped player, and also the all-time top goalscorer for the India national team. From a very young age, Chhetri started taking part in various football tournaments.
-
- 
-
-Chhetri began his professional career in 2002 at Mohun Bagan. He then represented JCT, Kansas City Wizards of Major League Soccer.
-
- 
-
-He also represented Bengaluru FC from 2013 to 2015. During the 2015 Indian Super League, Chhetri was picked up by Mumbai City for Rs. 1.2 crores, making him the most expensive Indian player at the auctions. On 30th March 2004, Chhetri represented the Indian U-20 team from the first time in the 1-0 victory over the Pakistan U-23 team in the 2004 SAF Games in Pakistan.
-
- 
-
-India defeated Cambodia 6-0 in Chhetri's first international tournament which was the 2007 Nehru Cup in which Chhetri scored 2 goals.
-
- 
-
-His good form continued and eventually became one of the best Indian footballers. It was with the national team that Chhetri gained fame and made a name for himself. He helped India win the Nehru Cup 3 times in 2007, 2009 and 2012 as well as the 2011 SAFF Championship.
-
- 
-
-During the 2008 AFC Challenge Cup, he was also one of India's best players as he helped India win the tournament. The team qualified for their first AFC Asian Cup in 27 years in the process.
-
- 
-
-At the 2011 AFC Asian Cup, he led India in scoring during their short-lived campaign with two goals. In 2002, Chhetri started his club career with Mohun Bagan and after 3 years, he moved to JCT where he scored 21 goals in 48 games, the most he has scored for any side in his career.
-
- 
-
-In 2010, he became the third player from the subcontinent to go abroad when he signed for the Kansas City Wizards of Major League Soccer.
-
- 
-
-Before going back abroad, he played for Chirag United and Mohun Bagan. Sporting Clube de Portugal of the Primeira Liga signed Chhetri where he played for the club's reserve side.
-
- 
-
-He also represented Bengaluru FC and Mumbai City FC in the Indian Super League. For the 2012 AFC Challenge Cup qualification which took place in Malaysia, Chhetri was named as the national team captain. He managed to score 21 goals after donning the captain's armband and helped his side win many titles. Chhetri has also been named AIFF Player of the Year five times in 2007, 2011, 2013, 2014 and 2017. With 56 goals in 97 appearances, he is also the all-time top goalscorer for the India national team, and also he is the most-capped player.
-
- 
-
-Other than Arjuna award in 2011, he was also honoured with FPAI Indian Player of the Year in 2009 and 2018, AFC Challenge Cup Most Valuable Player in 2008, SAFF Championship Player of the Tournament in 2011, Hero of the I-League for the 2016–17 season and the Hero of the Indian Super League for the 2017–18 season. Gurpreet Singh Sandhu is a trailblazer in Indian football. Taking up the sport at a young age, he joined St Stephen’s Academy in Chandigarh and worked his way into the Punjab state youth teams. In 2009, he joined East Bengal, signed his first professional contract, and made his senior debut soon after. He made his senior national team debut in India’s 1-1 draw with Turkmenistan during the qualification rounds of the 2012 AFC Challenge Cup. Gurpreet got his first taste of continental championships with East Bengal, playing in the 2012 AFC Cup. With an aim to play in Europe competitively, he signed for Norwegian top division club Stabæk on 15 August 2014. After playing in friendlies and cup matches, he ultimately made his debut in the Norwegian Tippeligaen in May 2016 to become the first Indian footballer to play in an European top division league. Just a month later, he started for Stabæk in a UEFA Europa League first qualifying match to become the first Indian footballer to play in a European continental competition. He now plays for Bengaluru FC in the Indian Super League. Gurpreet Singh Sandhu is an Indian footballer who plays as a goalkeeper for Indian club Bengaluru FC in the Indian Super League and in the Indian National team.
-
-Gurpreet is the first ever Indian to play a competitive match for the first team of a top-division European club and the fifth Indian to play professionally in Europe after Mohammed Salim, Bhaichung Bhutia, Sunil Chhetri and Subrata Pal. The 27-year-old is also the first Indian to play in the UEFA Europa League. Gurpreet Singh Sandhu was born on 3 February 1992 in Chamkaur Sahib, Punjab. He took up the game of football at the age of 8 and joined the St. Stephen’s Academy in 2000. He was selected for the U-16 Punjab team. He made his youth state level debut in 2006 in Haldwani.
-
-Later, Gurpreet joined the I-League East Bengal side as a youth player in 2009. In 2010, Gurpreet officially signed a professional contract with East Bengal and made five appearances for East Bengal in 2009–10 season.  He started the 2011–12 season as the second choice goalkeeper for East Bengal during the 2011 Federation Cup. Later he took over as the first choice ‘Keeper for East Bengal’s I-League campaign’.
-
-He made his debut in continental competitions in Asia in 2012 in the 2012 AFC Cup against Al-Oruba as East Bengal lost the match 0–1. Sandhu signed for Norwegian club Stabæk on 15 August 2014. On 18 January 2015, he made his senior debut for the club in a friendly match against Follo. Gurpreet made his league debut in May 2016 in an away match against IK Start. He became the first Indian footballer to play in a European top division league. On 30 June 2016, Sandhu became the 1st Indian footballer to feature in a UEFA Europa League match. Sandhu left Stabæk in August 2017 to return to India.
-
-In August 2017, Gurpreet joined Bengaluru FC in the Indian Super League. He made his debut for Bengaluru against in the AFC Cup knockout stage. He made his league debut against Mumbai City FC. His contract with Bengaluru FC is until May 2023. Gurpreet made his debut for the India U-19s against the Iraq U-19s in the 2010 AFC U-19 Championship qualification on 5 November 2009. He was then called up to the Senior Indian team squad of 23 for the 2011 AFC Asian Cup. He made his debut against Turkmenistan in a 1–1 draw.
-
-Gurpreet was called up to the 2018 FIFA World Cup qualifier squad against Nepal. He made his second appearance for the senior team against Iran in a 2018 World Cup qualifier at Bangalore. In 2016, Gurpreet captained India to a memorable 4-1 thrashing of Puerto Rico and played an essentially defensive role against Kyrgyzstan in a 2019 AFC Asian Cup qualification game. Gurpreet Singh Sandhu is an Indian footballer who plays as a goalkeeper for Bengaluru FC and the Indian national team. His safe hands have become a routine saviour for his club and country.
-
- 
-
-His three year spell in the Norwegian club Stabaek was a litmus test to his tenacity and patience where he was mostly a second choice keeper. But when he became the first Indian player to feature in a Europa League game, the long wait seemed worth it. Gurpreet was born on 3 February 1992 in Chamkaur Sahib, Punjab. His stature made him an imposing presence between the posts. He started playing football at the St. Stephen's Academy before joining the youth system of I-League club, East Bengal. Gurpreet has represented India in the Under-19 and Under-23 levels. However, his senior team debut came in 2011 against Turkmenistan in a 1-1 draw. He remained in the shadows of Subrata Pal in his early years. His next national call up came 2 years after his debut. While Gurpreet was climbing the ladders of international fame playing for Stabaek, his involvement with national team was limited. He truly asserted himself as the first choice national keeper in 2015 during the World Cup qualifiers.
-
- 
-
-The tournament was a mixed bag for him but ever since that, he has been the preferred choice to guard the goal. He is known for marshalling the defence and is a bankable presence. He captained India to a memorable 4-1 thrashing of Puerto Rico in 2016.
-
- 
-
-Ever since that, he has put in superb displays. It is no wonder that Indian football is on the upward trajectory and Gurpreet has played his role in the ascent.  Gurpreet was once accused of derogatory gestures at East Bengal fans. He had to face the wrath of AIFF and the home fans as a consequence. The youngster took to social media to publicly apologize for his actions. Gurpreet put in hard hours during his time for East Bengal. He was briefly loaned to Pailan Arrows in 2010-11 season.
-
- 
-
-His performances after the returning to East Bengal showed a massive transition. A 199 cm imposing shot stopper drew the attention of foreign scouts.
-
- 
-
-On a red letter day for him, Sandhu signed for Norwegian club Stabæk on 15 August 2014. He joined the select group of Indians to play club football on foreign soil.
-
- 
-
-He mostly played Cup matches for them. He managed a praiseworthy 6 clean sheets in the 11 games played in 3 years.
-
- 
-
-Lack of game time forced Sandhu to return to India. He joined Bengaluru FC in 2017 during the ISL season 4. Bhaichung Bhutia, also known as the “Sikkimese Sniper”, is a former Indian national footballer and is considered as the epitome of the rise of Indian football.
-
-
-
-He was born on 15 December 1976 in Tinkitam, Sikkim and played as a striker all his career. Bhutia is known for his powerful shots and his pinpoint accuracy in front of goal.
-
-
-
-His hunger for goals and his passion for the game made him the father-figure of Indian football.
-
-
-
-Bhaichung has also captained the national side and currently plays the role of manager at the Sikkim state football club. Bhaichung was not only good at football, but also represented his school at basketball, badminton and athletics.
-
-
-
-His uncle Karma Bhutia managed Gangtok-based Boys Club where Bhaichung played in his early years.
-
-
-
-Bhaichung played for several other local school teams and clubs and brought attention to himself in the 1992 Subroto Cup where he received the ”Best Player” award.
-
-
-
-His talent was spotted by former Indian goalkeeper Bhaskar Ganguly and helped Bhutia move to West Bengal where he would play most of his career.
-
-
-
-Bhutia has represented the following teams - India, East Bengal, JCT Mills, Bury, Mohun Bagan, Perak FA, Selangor MK Land, and United Sikkim.
-
- Bhaichung Bhutia made his club professional debut in 1993 for Calcutta-based East Bengal where he would make nine appearances, scoring 4 goals in the league.
-
-
-
-His debut for the club would mark the beginning of a career that mostly wandered from Mohun Bagan and back to East Bengal.
-
-
-
-Bhutia made his international debut on 10 March 1995 against Thailand in the Nehru Cup. He was just 19 years of age. In the same tournament, Bhutia scored a goal against Uzbekistan to become the youngest ever Indian goalscorer at 19 years of age.
-
- Having made his debut for the national team at just 19 years of age, Bhaichung showed some bright signs of helping Indian football rise. He went on to play some superb football for both club and country, and would become one of India’s best ever players.
-
-
-
-Bhutia scored just one goal in his debut tournament, and scored his second in the same tournament two years later against Bangladesh in the finals. In the 2002 LG Cup, Bhutia netted a brace against Vietnam, helping India to a 3-2 win.
-
-
-
-Bhutia was made captain of the team for 2005 SAFF Championship. India won the championship again, with Bangladesh again reaching the finals and losing to India 2-0.
-
-
-
-Bhutia scored one of the goals and was a part of the two goals he scored in the tournament. In the 2008 edition of the tournament, Bhutia scored just one goal, and helped India reach the finals where they lost to Maldives 1-0.
-
-
-
-Bhaichung won the 2008 AFC Challenge Cup and was selected as the most valuable player of the tournament with three goals. Bhutia’s 100th cap came in 2009, in the Nehru Cup. He was the first player to reach the milestone. He became the Player of the Tournament in spite of missing out on the final.
-
-
-
-Bhutia has made a total of 104 appearances for the national side and scored 40 goals in all competitions.
-
- Bhaichung Bhutia played most of his club career in West Bengal, switching from Mohun Bagan to East Bengal several times, and causing controversies doing it. He also played for other clubs like JCT Mills, United Sikkim, and two other Malaysian clubs.
-
-
-
-In 1999, Bhutia became the first ever Indian player to sign a professional contract in Europe when he signed for Manchester-based side Bury, where he would spend 3 seasons. He made 37 appearances for them in the league and managed to score only 3 goals. After the failure in Europe, Bhutia decided it was best for him to return to India, once again to East Bengal.
-
-
-
-In Malaysia, Bhutia played for Perak FA on loan from Mohun Bagan, and then played for Selangor MK Land. He scored a total of 5 goals in 13 appearances for both sides. In his split career at East Bengal and Mohun Bagan, Bhutia scored 52 goals from 97 games and 25 goals from 56 games respectively.
-
-
-
-In 2012, Bhutia signed for United Sikkim, where he would make only 3 appearances owing to injuries. He was made interim manager of the team in the same year, which marked Bhutia’s managerial debut. He currently manages the Sikkim state football team. Bhutia has had an illustrious club career that involves a massive 226 league games and a 100 goals from them.
-
-Bhutia announces his retirement from international football in 2011. A farewell match was held for him in January 2012 against Bayern Munich. Bhutia then played his last club match at United Sikkim in 2015, which marked the end of his glorious career.
-
-
-
-He currently is on a managerial venture at Sikkim and has founded the Bhaichung Bhutia Soccer Schools to help nurture young talent. To those of us who grew up watching Indian hockey in the 1990s, the name Dhanraj Pillay needs no introduction. He was our skipper, our forward and was known to run head on into the opposition defence.
-
-He had talent, was a born leader and stood up for his players. But he too had to struggle at the start of his career and the man fought what life threw at him to make it this far. Dhanraj was born to a humble home. His father worked at a local ammunition factory in Pune. The love for hockey was pretty great right from the start so it is hardly a wonder that he took up the sport. Dhanraj Pillay is a former captain of the Indian hockey team. He is a field hockey player from Pune who created magic with his skills on the hockey field. His sporting spirit, speed and agility on the field would make the audience watch him in awe. The Indian hockey team won the 1998 Asian games and 2003 Asia Cup under his captaincy. Pillai has played in four Olympics, four World Cups and four Asian Games among other matches.
-Dhanraj Pillay was born on 16th July 1968 in Khadiki in Pune, Maharashtra. He was born as the fourth son of Tamil parents Nagalingam Pillay and Andalama. Dhanraj Pillay spent his youth in the Ordnance Factory staff colony where his father was a grounds man. He learnt his skills with broken sticks and discarded hockey balls by playing with his brothers and friends in his colony thereby imitating the style of legendary forward and idol, Mohammed Shahid. Dhanraj’s mother, whom he gives all due credit for his success, encouraged her five sons to play hockey despite living a hand-to-mouth existence. Dhanraj later moved to Mumbai in the mid eighties to join his elder brother Ramesh who was playing in the Mumbai league. Ramesh, who had already played for India in the international level, guided Dhanraj to develop himself as a potent and speedy striker. Thereafter, Dhanraj was tutored by the then Indian Coach, Joaquim Carvalho after he moved on to Mahindra & Mahindra. Dhanraj Pillay made his debut in the international hockey in the year 1989 where he represented India in the Allwyn Cup held in New Delhi. Dhanraj’s career spanned from December 1989 to August 2004 and he played a total of 339 international matches. He scored around 170 goals in his career. He is the only player to have played in four Olympics in the years 1992, 1996, 2000 and 2004 respectively. He has also played in four World Cups in the years 1990, 1994, 1998 and 2002 as well as four Champion Trophy titles in the years 1995, 1996, 2002 and 2003. Dhanraj Pillay has also played four Asian games in the years 1990, 1994, 1998 and 2002 respectively. The Indian hockey team won the 1998 Asian games and 2003 Asia Cup under his captaincy. Dhanraj was also the highest goal scorer in the Bangkok Asian Games and was the only Indian player to figure in the World Eleven side during the 1994 World Cup held in Sydney.
-
-Dhanraj Pillay has also played hockey for a number of foreign clubs. He has played for foreign clubs like Indian Gymkhana (in London), HC Lyon (in France), BSN HC and Telekom Malaysia HC (in Malaysia), Abhahani Limited (in Dhaka), HTC Stuttgart Kickers (in Germany) and Khalsa Sports Club (in Hong Kong). During the end of his career, he also played in the Premier Hockey league for the Maratha Warriors for two seasons.
-
-Dhanraj Pillay is currently playing for Karnataka Lions in the World Series Hockey which is played in India. He scored two goals for his team which is captained by ex-Indian captain Arjun Halappa. Dhanraj is also currently the manager of the Indian Hockey team and a member of the ad hoc committee of the Indian Hockey Federation which was formed after the suspension of Kanwar Pal Singh Gill.
-Dhanraj Pillay is the recipient of India’s highest sporting honor, the Rajiv Gandhi Khel Ratna award for the year 1999-2000. He was also awarded with the prestigious Padma Shri Award, India’s fourth highest civilian award in the year 2000 by the Indian Government. Dhanraj Pillay was the winning captain of the victorious Asian games 2002 hockey team. He was also awarded the ‘Player of the Tournament’ award in the 2002 Champions Trophy held in Cologne in Germany. Pillay is currently involved in trying to start a hockey academy in Mumbai. A biography on his life titled ‘Forgive Me Amma (Mother)’ was also released which was written by journalist Sundeep Mishra, who has tracked his career spanning almost three decades. Hockey legend Dhanraj Pillay said that he always felt hockey was there in his blood, due to which his journey was confident and successful. Mr. Dhanraj added that his parents, brothers played hockey very well and it was his father, who always wanted him to be a hockey player.
-
-The Rajiv Gandhi Khel Ratna awardee, who was here in Visakhapatnam to take part in Gyaan Pathashala programme organised by Rohit Memorial Trust, engaged in a ‘Talk show’ with schoolchildren.
-
-“A number of people say me that, if I was into cricket, I would have been a multimillionaire. But my heart always said it was hockey. I feel an athlete knows, in what sport does he fit,” Mr. Dhanraj said. Advising students not to forget parents in his life, Mr. Dhanraj said that he always considered his mother as his role model, who supported him in all stages of life.
-
-Mr. Dhanraj said that he hailed from a lower middle class family, where he doesn’t even own a hockey stick. “I used to wait for my turn till my brother finishes game, as there was only one stick. With the support of my family, my coach, I worked hard and success followed,” he said. He also appealed students to respect teachers and reach heights.
-
-Mr. Pillay also said that it feels good to see since the last five to 10 years, parents are encouraging their children to take sports as a career. He said that P.V. Sindhu, Saina Nehwal and many other Indian sportspersons are performing very well. Mr. Dhanraj said that in the game of hockey, he always treated legendary player Mohammed Shahid as his role model.
-
-The Rohit Memorial Trust had earlier launched its Gyaan Pathashala programme at Olivet School and Oxford School, as part of its thrust activities this year for improving communication skills of schoolchildren. It has started this initiative to help students improve their spoken English skills.
-
-Project Director Gurmeet Kohli, chairman, G. Anantram, vice- chairman, Meenakshi Anantram and trustees were among those present. The Indian men’s hockey squad led by Manpreet Singh has quality, but needs to focus more on being consistent in its performances, feels former captain Dhanraj Pillay.
-
-The 51-year-old former Olympian said he has dedicated his life to improve the popular sport where India was once a formidable force.
-
-“We need not get discouraged because we could not get the Hockey and Cricket World Cup,” said Dhanraj, a four-time Olympian, at a function here on Thursday. Dhanraj, along with ex-India spinner Nilesh Kulkarni, interacted with more than 7,000 school children across 70 schools of Sundargarh district, Odisha, on the importance of sports through VSAT-based technology developed by Valuable Group.
-
-“I believe that it is essential to have consistency in the team and that is what the players in these tournaments should focus upon,” Dhanraj elaborated.
-
-Asked whether he would enter politics, the mercurial former forward said he has dedicated his life to improve the game. “Politics is not for me. I am a born hockey player and will continue to remain so, dedicating myself to improve hockey." Dhanraj Pillay was born on July 16th, 1968 in Pune, India. He is the former captain of the Indian national hockey team. Dhanraj Pillay firstly started playing hockey with on a soft and muddy surface with his friends and brothers using broken sticks and old hockey ball, trying to emulate Mohammed Shahid hockey style, his idol and inspiration. His mother was the driving force behind his hockey career as she always encouraged all her five Pillay boys to play hockey despite of everything. Dhanraj Pillay lived in Mumbai during the eighties in ordertoplay for RCF in the Mumbai League. His brother, Ramesh Pillay,helped him to develop his power and speed by guiding him and sharing his international experience. His international debut was in 1989 at the Asia Cup in New Delhi. He played 339 international matches and it is believed that he scored more than 170 international goals. Dhanraj Pillay was awarded India’s highest sports award (Rajiv Gandhi Khel Ratna award) for his performance in the 1999 & 2000 years. As captain of the Indian National Team, he lead the squad to conquer the Asian Games of 1998 and 2003. Once the 1994 FIH World Cup in Sydney ended, he was selected in the world’s all-star team.
-
-He participated in 4 Olympic games. At club level he played in London for Indian Gymkhana, in France at HC Lyon, in Malaysia for BSN HC & Telekom Malaysia HC, for Abahani Limited & HTC Stuttgart Kickers in Germany and Khalsa Sports Club in Hong Kong. Finally, he played at the Indian Premier Hockey League for Maratha Warriors. Dhanraj Pillay is not only one of the most important hockey legends of India but the world. Dhanraj Pillay (born July 16, 1968) is considered to be one of the best forwards of hockey in the world. His international debut in hockey was in 1989 when he represented the India in the Allwyn Asia Cup in New Delhi. He won so many national and international awards for his brilliant performances. He became the captain of the Indian hockey team. Pillay is currently the manager of the Indian hockey team and a member of the Indian Hockey Federation. Dhanraj Pillay is the highest goal scorer in the Bangkok Asian Games. During the 1994 World Cup, he was a member of the World Eleven. In 1999, he received the Rajiv Gandhi Khel Ratna Award, the highest award of India’s sporting honor. In 2000, he was awarded the Padma Shri, a civilian award. Dhanraj Pillay was a lively and captivating player. His wonder is everlasting and can simply puncture through any protection, any time. He has impressive dribbling skills – he’s so fast that he can go past players even those who are younger than him. Pillaj always had that driven and passion for the game. Dhanraj is trying to start a hockey academy at Mumbai. He is raising funds for his academy by collecting empty plastic printer cartridges in Mumbai and selling them to a European recycling firm.
-When he was younger, he used to copy the style of aggressive dribbler Mohammed Shahid.
-Dhanraj’s mother used to encourage him a lot that he loved the game and tried his hardest to excel even after not belonging to a financially-capable family. Dhyan Chand is widely considered to be the best hockey player of all time. His goal scoring ability was phenomenal and the opposition defenders were often made to look like sitting ducks in front of this wizard from India. 
-
-Chand played a pivotal role in India winning three consecutive Olympic gold medals in 1928, 1932 and 1936. His birthday, 29th August, is celebrated as the National Sports Day in India and the President gives away awards such as Rajiv Gandhi Khel Ratna, Arjuna and Dronacharya awards on this day. On his 110th birth anniversary, let us look at a few interesting facts about the legend.
-
-1. Chand joined the Indian Army at the age of 16 and took up hockey while he was still enrolled. Since Dhyan Singh used to practice a lot during the night, he was given the nickname "Chand" by his fellow players; his practice sessions at night invariably coincided with the coming out of the moon. ‘Chand’ means moon in Hindi.
-
-2. Dhyan Chand was the leading goal-scorer at the 1928 Amsterdam Olympics with 14 goals. A news report about India’s victory said “This is not a game of hockey, but magic. Dhyan Chand is, in fact, the magician of hockey.”
-
-3. Even though Dhyan Chand was involved in many memorable matches, he considers a particular hockey match to be his best. “If anybody asked me which was the best match that I played in, I will unhesitatingly say that it was the 1933 Beighton Cup final between Calcutta Customs and Jhansi Heroes.”
-
-4. In the 1932 Summer Olympics, India beat USA 24-1 and Japan 11-1. Dhyan Chand scored 12 goals while his brother Roop Singh netted 13 out of the 35 goals India scored. This led to them being dubbed the 'hockey twins'.
-
-5. Once, when Dhyan Chand was unable to score in a match, he argued with the match referee about the measurement of the goal post. To everybody’s amazement, he was right; the goal post was found to be in contravention of the official minimum width prescribed under international rules. Chand is most remembered for his goal-scoring feats and for his three Olympic gold medals (1928, 1932, and 1936) in field hockey, while India was dominant in the sport. He joined the Indian army in 1922 and came to prominence when he toured New Zealand with the army team in 1926. After playing in the 1928 and 1932 Olympic Games, Chand captained the Indian team at the 1936 Games in Berlin, scoring three goals in the 8–1 defeat of Germany in the final match. During India’s victorious world tour of 1932, he scored 133 goals. Known as “the Wizard” for his superb ball control, Chand played his final international match in 1948, having scored more than 400 goals during his international career.
-
-In 1956 he retired from the army with the rank of major. His son, Ashok Kumar Singh, was a member of India’s Olympic field hockey teams in the 1970s and scored the winning goal in the 1975 World Cup championship. Every year, August 29 is celebrated as National Sports Day in India. On this day, the entire nation revels in the achievements of various sports persons, and acknowledges the importance of physical activity in our lives. It is also that time of the year when the President of India gives away the Rajiv Gandhi Khel Ratna, Arjuna, and Dronacharya awards to sports persons for their achievements. But the man behind National Sports Day is none other than legendary hockey player, Major Dhyan Chand, who is widely regarded as the greatest hockey player of all time.
-
-Every year, August 29 is celebrated as National Sports Day in India. On this day, the entire nation revels in the achievements of various sports persons, and acknowledges the importance of physical activity in our lives. It is also that time of the year when the President of India gives away the Rajiv Gandhi Khel Ratna, Arjuna, and Dronacharya awards to sports persons for their achievements. But the man behind National Sports Day is none other than legendary hockey player, Major Dhyan Chand, who is widely regarded as the greatest hockey player of all time. Known as the ‘Wizard of Hockey’, he was popular for his brilliant goal-scoring feats and his mastery over the control of the ball. Chand scored more than 400 goals in his international career and also bagged three Olympic gold medals for the country in 1928, 1932 and 1936. Recognising his contribution, the Government of India awarded him with India’s third-highest civilian honour, the Padma Bhushan, in 1956. As we commemorate his 114th birth anniversary this year, let’s find out more about the luminary. The Best Hockey Player In India, Major Dhyan Chand, has graced the game. He was known as ‘The Wizard’ for a reason. He was brilliant with the stick-work and ball control. Many people might not be aware of the fact Dhyan Chand was not his actual name. He was, in fact, named ‘Dhyan Singh’ by his parents, but was named Dhyan ‘Chand’ (moon) by his teammates, as he used to practice in the moonlit night.
-
-Dhyan Chand was born on August 29, 1905, in Allahabad, now known as Prayagraj. In addition to earning three gold medals, in 1928, 1932 and 1936, he was also known for his splendid goal-scoring feats. He was famous during an era when India dominated field hockey. His influence extended beyond victories as, during his reign, India won the field hockey event in seven out of eight Olympics, from 1928 to 1964.
-
-Chand exclusively played army hockey tournaments and regimental games between 1922 and 1926. He was finally selected for the Indian Army team, to tour New Zealand. The team won 18 matches, drew 2 and just lost 1, and received tons of praises from all spectators. In the next two test matches against New Zealand, the team won the first and lost the second. The newly formed Indian Hockey Federation (IHF) made preparations to send its best team for the 1928 Amsterdam Olympics.
-
-An Inter-Provincial Tournament was held in 1925 to select the team members. Five teams–Punjab, Bengal, Rajputana, United Provinces (UP) and Central Provinces, participated in the inaugural nationals. He got permission from the Army to play for the United Provinces.
-
-A newspaper report read as: “It is not a game of hockey, just magic. Dhyan Chand is, in fact, the wizard of hockey.”
-
-India defeated Germany in the 1936 Olympics finals by 8–1, even Adolf Hitler offered him a senior post in the German Army, which Chand refused. Dhyan Chand even won three Olympic Gold medals for India, Amsterdam (1928), Los Angeles (1932) and Berlin (1936) Olympics. He is the highest goal scorer in hockey, scoring over 400 goals across his term. Australian legendary batsman, Don Bradman paid a glowing tribute to him and said, “He scores goals like runs in cricket”.
-
-The National Sports Day is celebrated on his birthday – 29th August. He is the one and only recipient of the Padma Bhushan (1956) among hockey players. Dhyan Chand’s hockey stick was the subject of extensive research as it was claimed that he had a magnet in his stick. Even, that he applied glue on his stick. But all of the claims were false. To prove his quality, Dhyan Chand once used a lady spectator’s walking stick to score a goal.
-
-Chand was honored at India’s National Stadium in 1951. He retired from the army in 1956 at age 51, with the rank of Major. The Government of India honored him that year by presenting him the Padma Bhushan. He taught at coaching camps at Mount Abu, Rajasthan after retirement. Later, he accepted the position of Chief Hockey Coach at the National Institute of Sports, Patiala for several years. Chand spent his last days in his hometown of Jhansi, UP.
-
-Dhyan Chand remains a legendary figure in the world of hockey. His skills have been glorified in various stories. He had an extraordinary control over his stick and on dribbling the ball. The 20th National Award 2012 was given to Dhyan Chand posthumously. The award was received by Ashok Dhyan Chand (a hockey Olympian), Dhyan Chand’s son on behalf of his father. It was given by the Journalist Association Of India at Sirifort Auditorium, New Delhi, India
-
-India’s highest award for lifetime achievement in sports is named after the hockey wizard – Dhyan Chand Award. It has been awarded annually since 2002 to sports figures, who not only contributed through their performance but also contributed to the sports field after their retirement. The National Stadium, Delhi was renamed Dhyan Chand National Stadium in 2002 in the honor of the hockey wizard.
-
-Chand died on 3 December 1979 at AIIMS, Delhi. He was cremated at the Jhansi Heros ground in his hometown, Jhansi. Even his regiment, the Punjab Regiment, accorded him full military honours. May his soul rest in peace. Also known as  India’s hockey wizard, Major Dhyan Chand Singh was born on August 29, 1905 at Allahabad in Uttar Pradesh. The title “Chand” (Moon) was given by his first coach, who predicted that he would one day shine like chand (Moon). His father was in the Army. Dhyan Chand also followed in the footsteps of his father when he joined the army at the young age of 16. He was selected to represent India in the 1928 Summer Olympics. India won the hockey gold in this Olympics and Dhyan Chand scored two goals in the final match. He led the Indian hockey team in the 1936 Summer Olympics final. Though he was refused permission by his regiment to participate in the 1936 Olympics, it finally relented. The German supreme leader Adolf Hitler had sought to use the 1936 Berlin Olympics to prove his theory of ‘Aryan Supremacy’. But the stupendous performances of American black athlete Jesse Owens and India’s Dhyan Chand blew holes in his theory. He was so impressed by India’s performance in the final, which India won 8-1, that he offered the post of Colonel if Dhyan Chand migrated to Germany, which Dhyan Chand declined.
-
-He continued playing till the age of 42, and retired from competitive hockey in 1948. The city of Vienna, Austria honored him by setting up his statue. The other statues of this legendary sportsman are in New Delhi and at Medak in Andhra Pradesh. He is a recipient of the Padma Bhushan award, which was awarded to him in 1956. His birthday on August 29 is celebrated as National Sports Day in India. He passed away on December 3, 1979. 
+Demystifying Bias Detection and Mitigation
+in Machine Learning
+Whitepaper by Dr. Ashwani Singh, Manager – Applied AI, Mphasis NEXT Labs
+Divay Garg, Asst. Manager – Applied AI, Mphasis NEXT Labs
+Contents
+Introduction 1
+Bias Detection 2
+Bias Mitigation 4
+Bias Mitigation and Accuracy Tradeoff 6
+Mphasis Responsible AI Framework 7
+Reference 8
+1.
+Introduction
+Machine learning algorithms have become more capable in the past few years, especially with the
+advent of technologies such as deep learning. As a result, the use of ML algorithms in augmenting
+or supporting human decisions in a range of domains such as advertising, financial services,
+judicial and policing systems has also exploded. One would believe that this explosion in the use of
+AI is a harbinger of a more rational future, free from human prejudices and biases inherent in past
+societies. However, the reality shows a different and bleak picture. Since the algorithms are based
+on past or historic data, they may perpetuate instead of preventing societies’ existing inequities and
+discriminations. For instance, a study[1] by ProPublica of the COMPAS system to predict recidivism,
+found the predictions to be biased against African American prisoners. Similar cases exist in other
+domains as well. Xing, a hiring platform was found to rank less qualified male applicants higher than
+more qualified female applicants[2]. Publicly available face recognition algorithms have been shown
+to perform poorly in recognizing African American males and females. This bias in algorithms is
+essentially a reflection of data containing biases present in society. The sad fact is that unless such
+biases are detected and mitigated, AI-based systems have the potential to do more harm than
+good, especially towards societal groups that have faced disadvantages and discrimination
+in the past.
+Fortunately, the advent of fields such as explainable AI and more recently, responsible AI, have
+brought greater attention to the need for ascertaining bias in AI-based systems and ensuring that
+such systems do not inadvertently lead to discriminations. This is also in line with the increased
+focus among business leaders to try and ensure debiased decisions. Organizations have
+incorporated training programs for employees to reduce unconscious biases while taking decisions
+and formulated policies for identifying discriminatory processes leading to adverse outcomes for
+groups. These principles of bias detection and mitigation can also be extended to machine learning
+systems to make them fair and equitable; the need of the hour is formulating a clear set of policies
+for an unbiased implementation of AI-based systems. A clear policy for algorithmic fairness would
+entail outlining processes for bias detection and once detected, mitigating the biases identified.
+Unfortunately, this is easier said than done due to the high degree of complexity involved. Bias
+detection is challenging as there could be multiple definitions of bias in decisions[3], and an
+argument could be made as to which is the most appropriate metric of bias for a particular use
+case. Deciding the metric for detecting bias is important since different stakeholders may be
+interested in different metrics. For instance, loan applicants would prefer the algorithm to maximize
+true positives and minimize false negatives so that those deserving the loans get them, while the
+loan providers may want to minimize false positives and correctly identify applicants likely to default
+on the loan in the future.
+| 1
+2 |
+The mitigation exercise comes with its own set of complications, most important of which is the
+trade-off between bias mitigation and accuracy. Hence, it is important for business users to have
+a sense of the challenges associated with bias detection and mitigation and understand how to
+deal with such challenges. The paper discusses these points in detail and outlines a step-by-step
+debiasing process using the Mphasis Responsible AI framework.
+2.
+Bias Detection
+Although industry and academia have started work in addressing AI fairness, the definition of
+algorithmic bias and fair treatment are still under debate. There are numerous definitions of bias
+[3], which can confuse users who are trying to incorporate fairness in their AI systems. Hence,
+there is a need for intuitive explanations of bias metrics and directions on when they are suitable
+for application. The most prominent definitions and their applicability are discussed below, within
+the context of a bank utilizing AI-based recommendations for granting loans to applicants.
+1. Demographic Parity/Disparate Impact: This definition is based on only the predicted
+outcome rather than a comparison between predicted and real outcomes. The objective, in
+this case, is to ensure the underprivileged group is not being unfairly treated or disadvantaged
+compared to the privileged group, in terms of the proportion selected. Hence, if the sensitive
+attribute is race and the outcome is loan approval, roughly the same proportion of individuals
+amongst privileged and underprivileged racial groups should get loan approvals. This
+definition is important, as it is considered in court to ascertain if there’s discrimination in
+the outcome of a system. As codified by the US Equal Opportunity Commission, Disparate
+Impact (ratio of approvals for an underprivileged group to approvals for a privileged group)
+of lower than 0.8 would be considered as signifying discrimination. The thought process is
+that approval should not matter on whether a person belongs to a particular racial group. The
+reasoning extends to other groups as well, so the approval rate among the privileged gender
+should be the same as the one among the underprivileged gender.
+2. Conditional Statistical Parity: The obvious question that appears from the above definition
+is what if the disparate impact has nothing to do with group characteristics, but rather other
+factors that may be relevant for loan approval. So, if the income and asset ownership levels
+among whites and non-whites are not the same, and whites have higher income and asset
+ownership levels, should this not be considered? Conditional statistical parity extends the
+rationale of the statistical parity measure, however, with the additional consideration of
+relevant factors that could legitimately produce differences in the approval rates. A bias would
+exist, however, if despite controlling for the relevant factors, there remains a difference in the
+approval rates between the privileged and the underprivileged groups. 
+| 3
+The issue with the above definitions of bias is that while striving for fairness, they do not consider
+the ground truth in their assessment. This is like saying that a fair outcome is different from and
+independent of the ground reality, and it does not matter whether the deserving candidates get
+selected and the undeserving rejected while assessing fairness. This would mean that if loans
+were approved at similar rates for deserving whites, and random non-whites, we should be
+satisfied that the system is producing fair results. It could be argued that a fair system should
+ensure that the right people got the right results rather than the results being equal across
+groups. Hence, the next set of definitions compare the predicted outcome with the true outcome
+to measure bias.
+1. Positive Predictive Value (PPV) Parity: This means that the proportion of correct positive
+predictions is the same across groups. If 60% of positive calls (those predicted as suitable for
+loan approval) deserve to get the loan, i.e., the true value is the loan approved among whites
+and this proportion is the same across non-whites, it would mean that there’s PPV parity
+among the two groups. On the other hand, if 80% of non-whites with positive calls deserve
+the loan, there could be bias in favor of the whites. However, the main idea behind this
+definition is that the model does not predict differently for the privileged and underprivileged
+groups. This definition of fairness was used by the developers of COMPAS to defend against
+allegations of bias against African American prisoners, as according to them, the system
+showed predictive parity, and hence was fair.
+2. Equal Opportunity Difference: Some people may argue that it is more important to ensure
+that positive outcomes reach those who deserve it. One way to do this is to look at the True
+Positive Rates (TPR). TPR is the proportion of people predicted to get loan approval to the
+ones that got loan approvals. It tells you whether the system is treating the deserving equally
+across groups. As the name suggests, the metric assesses whether the deserving across
+groups have an equal opportunity to get the positive outcome. If 70% of the deserving get
+their loans approved among whites, and 70% of the deserving get approvals among nonwhites, it means the deserving in both groups have an equal opportunity to be predicted as
+getting the loan, and hence, the system is fair. A related concept is the False negative error
+rate which asks how many people out of the deserving are being misclassified as undeserving.
+This question was asked by the critics of the COMPAS algorithm regarding the prediction of
+recidivism in African American and Caucasian prisoners, and it was found that the system
+favored Caucasian prisoners through a high false negative rate i.e., identifying those who
+would commit a crime as those not at risk of doing so. Hence, due to this misclassification,
+society was more at danger from misclassified Caucasian prisoners who would be set free and
+promptly commit a crime, as compared to that of similar African American parolees.
+3. False Positive Error Rate Balance: Sometimes the problem is not one of discrimination
+against a group, but rather undue favor or privilege for a group. The idea is that the system is
+unfair if it unduly benefits the undeserving in a particular group. Hence, if a higher proportion
+of the undeserving applicants are misclassified as deserving in men as against women, it
+would mean that men are getting an advantage that they do not deserve, and the system
+fails the fairness test. On the other hand, if the undeserving applicants are misclassified at
+similar rates across men and women, no group enjoys an undue advantage and according to
+this definition would be fair. In the recidivism case, it was found that the false positive rate for 
+African Americans was much higher than for Caucasian prisoners, and a much higher number
+of prisoners who would not commit crimes were misclassified as at risk for committing a
+crime. The reformed African American prisoners were more likely to not get paroles as they
+would be mistakenly considered dangerous.
+4. Equalized Odds Difference: This is a more stringent measure of bias that combines the
+above two measures. A classifier is fair if it has similar equal opportunity rates and false
+positive error rates for the privileged and underprivileged groups. The main idea is that the
+classifier treats the deserving applicants between groups equally well and the undeserving
+equally poorly. The probability of a good applicant getting approved and a bad applicant
+getting disapproved would be similar across the two groups. The conjunction of the above
+two definitions must hold for this metric to assess the model as fair.
+The above measures look at fairness from a group’s point of view and do not have much to say in
+terms of individuals making up those groups. A different set of measures looks at individual cases
+and tries to assess fairness in terms of outcomes for individuals rather than the entire group.
+1. Causal Discrimination: A system would be unfair if similar individuals do not get similar
+results. Here, bias is checked by introducing a new individual case that is the same as one in
+the original set except for the sensitive feature. For instance, if non-white applicants having
+all the other characteristics same as that of white applicants existing in the data set, are
+introduced and predictions obtained for this new set of applicants, would the outcome differ?
+In case the proportion of individuals getting their loans approved reduces, one can conclude
+that it would have been because of the change in the sensitive attribute.
+We have a set of bias detection metrics to choose from and each of these metrics provides
+different information about the model fairness. Ideally, it is a good idea to detect bias at three
+levels: first, an overall level to rule out disparate impact, second, considering the ground truth
+at the level of group fairness by including one of the metrics like equal opportunity or equalized
+odds to make sure that the model treats deserving and undeserving similarly across groups, and
+last, make sure the fairness holds for individual cases even if the sensitive attributes are changed.
+3.
+Bias Mitigation
+While the above metrics could be used to identify and validate the fairness of the algorithm, it is
+very much essential to incorporate these metrics while addressing an algorithm’s fairness during
+bias mitigation, to have a proper comparison in results before and after the bias mitigation. Bias
+mitigation may be attempted through multiple approaches as explained below.
+Unawareness: The simplest form of bias mitigation, in this case, the model developer
+deliberately excludes information about sensitive features while training the model. In our
+example, information about sensitive attributes such as race and sex is deemed to be irrelevant
+and excluded for each individual, while making the prediction. The algorithm by this definition
+is fair if it does not take the excluded factors under consideration. However, this approach
+2 | 4
+may not be successful due to the presence of other features that can act as proxies of the
+sensitive feature and result in bias. For instance, the college being an all women’s college, or the
+applicant being a part of a “women’s team” if used as features may result in the applicant being
+identified as a woman and result in a gender-based bias, even though the gender variable is not
+explicitly included. In fact, such bias by proxy was the reason behind Amazon’s hiring algorithm
+discriminating against women[4].
+Mitigation Algorithms: Bias mitigation algorithms are meant for supervised learning and hence
+try to train the model in a way that the bias metrics are reduced to within threshold levels.
+Mitigation can be performed at three levels, namely, at the data pre-processing stage prior to
+model training, during model training and through post processing after model training.
+1. Bias Mitigation Before Model Training: This approach is used when training data itself
+shows discrimination towards a certain group, due to the bias in judgments of earlier decision
+makers. The objective of this approach is to make accurate yet non-discriminatory predictions
+through changes in the training data, thereby making it a multi-objective optimization problem.
+Two methods are generally used:
+• Massaging the dataset[5]: Here, some of the objects of the dataset are relabeled to
+remove discrimination from input data, while maintaining the overall class distribution.
+A ranker is used to select the best candidates for relabeling purpose. The ranker ranks
+observations according to the probability of achieving the positive outcome, and then
+candidates closest to the decision border are selected for relabeling. For instance, in
+the loan disbursal dataset, some of the observations on the decision boundary may be
+relabeled. Thus, some privileged group members receiving loans will be relabeled as not
+receiving loans, and the same number of underprivileged group members not receiving
+loans will be relabeled as receiving loans. Care is taken to minimize the number of
+observations relabeled to ensure the least effect on accuracy levels. The major drawback
+of this method is the intrusive nature of this relabeling process, which results in a changing
+of the input data.
+• Reweighing[5]: Instead of changing labels of the dataset altogether, this method
+assigns different weights to objects in the dataset to make it non-discriminatory. For the
+underprivileged group, the reweighing process assigns higher weights to observations
+obtaining positive outcome, and lower weights to those obtaining the negative outcome
+and vice-versa for the privileged group. So, in the loan disbursement example, for instance,
+the underprivileged group members obtaining the loan will be assigned higher weights and
+those not obtaining the loan would be assigned lower weights. For the privileged group
+members, weights will be assigned in the opposite direction with those obtaining the loans
+being assigned lower weights, and those not obtaining the loans being assigned higher
+weights. These weights can then be used directly in the prediction process to get a
+fair outcome.
+| 5
+2. Bias Mitigation During Model Training: As the name suggests, bias mitigation takes place
+during the training process, maintaining the accuracy of the predictions. Here, predictor
+variables in the decision process are weighed based on the significance of variables while
+maintaining independence between the sensitive variable and the decision taken. Some ways
+of mitigating bias while training the model are as follows:
+• Adversarial Debiasing[6]: In this bias mitigation approach, the model attempts to predict
+the outcome variable while an adversary tries to model the sensitive variable like sex or
+race and so on. The objective of the mitigation is to maximize the model’s ability to predict
+the outcome variable while at the same time minimizing the adversary’s ability to predict
+the sensitive variable. The model shows mitigation of statistical bias such as average odds
+ratio while maintaining accuracy, resulting in a non-discriminatory decision process.
+• Reductions Based Debiasing[7]: Here the classification task is converted to a cost
+sensitive problem where the solution provides a classifier with the least error subject to the
+desired constraint. This means that the model first allows the user to define a bias metric
+as a constraint (say disparate impact), thereafter it optimizes the tradeoff between accuracy
+and the bias metric defined as the constraint. One benefit of this approach is that it can be
+utilized across various types of models.
+3. Bias Mitigation Post Model Training: Post training bias mitigation does not change the
+training data and the learning algorithm and treats both as given.
+• Equalized Odds Post Processing[8]: This post processing bias mitigation utilizes an
+optimization methodology utilizing Bayes optimal predictors, whereby an equalized odds
+or equal opportunity predictor is derived from a Bayes optimal regressor and the protected
+variable. The predictions are drawn from a regression score between 0 and 1, with a
+particular threshold defining the boundary between positive and negative classification.
+The scores generated by the Bayes optimal regressor along with the threshold optimized
+for equalized odds/equal opportunity result in a non-discriminatory predictor. One limitation
+of this approach is that while it works for constraints of statistical parity such as equal
+opportunity, or equalized odds, it does not handle demographic parity constraints.
+4.
+Bias Mitigation and Accuracy Tradeoff
+The bias mitigation algorithms correct the influence of attributes causing the bias in predictions.
+However, since the ground truth in the data may itself carry historical biases of human decision
+makers, accuracy suffers if this is corrected. Getting an unbiased prediction means going against
+the ground truth. The reduction in accuracy is related to the amount of bias that exists in the data,
+but it may be difficult to derive the functional relation i.e. that x amount of bias results in y amount
+of reduced accuracy upon mitigation, Moreover, during mitigation, reduction in accuracy depends
+on the bias metric provided as a constraint. Also, changing hyperparameters while training the
+2 | 6
+| 7
+model results in varying bias and accuracy metrics. The ideal approach would be to reduce
+the bias to within threshold levels in step 1, and in step 2, identify the hyperparameters which
+maximize accuracy while keeping bias within acceptable limits. This implies that bias mitigation
+is a process that requires a certain level of experimentation from the data scientists.
+The above bias detection and mitigation processes can be used as per the needs and
+requirements of the users. The process starts with identifying whether the dataset contains any
+sensitive variables that signify groups that may have been discriminated against due to biased
+decisions in the past. The next step is selecting bias metrics for the detection of bias. Once bias
+is detected, it is important to check the source of discrimination for the appropriate utilization of
+bias mitigation methodologies. A step-by-step progression of a systematic bias detection and
+mitigation process, and the judgment calls at each step is provided below.
+5.
+Mphasis Responsible AI Framework
+Considering the need for more trustworthy AI systems, Mphasis has recognized the growing
+importance of fairness in AI models and identified it as a priority area for the future. We strive
+to offer features of bias identification and mitigation in all critical models through Mphasis
+Responsible AI framework, which helps in addressing fairness in machine learning models.
+Mphasis Responsible AI solution identifies existing biases that can occur across gender, ethnicity,
+race etc. The solution mitigates discrimination present in the data and prediction process, making
+the outcome non-discriminatory. The solution gives a comparative view of analysis before and
+after bias mitigation to provide clarity on the bias-accuracy tradeoff and allows customers more
+transparency in the entire process.
+• Are there features like
+ sex/race/age/ethnicity?
+• Has there been a
+ history of bias on
+ these features?
+Sensitive
+Variable
+• What do we want to
+ check: Demographic/
+ Statistical Parity/both?
+• How do the bias
+ metrics reflect the
+ concerns of the
+ stakeholders?
+Bias Detection
+Metric
+• Identify the source of
+ discrimination to
+ decide between bias
+ mitigation approaches
+• What is the optimum
+ tradeoff between
+ accuracy and
+ bias reduction?
+Bias Mitigation
+Approach
+2 | 8
+Organizations can use Mphasis Responsible AI as a guide to ensure the existing biases are
+mitigated, and new ones are not introduced when human judgment processes are replaced
+or augmented by AI solutions. This results in trustworthy, interpretable systems that can pass
+muster on openness and fairness concerns of regulatory bodies and civil society.
+6.
+Reference
+[1] Machine Bias, https://www.propublica.org/article/machine-bias-risk-assessments-in-criminalsentencing
+[2] Lahoti, P., Gummadi, K. P., & Weikum, G. (2019, April). ifair: Learning individually fair data
+representations for algorithmic decision making. In 2019 IEEE 35th International Conference
+on Data Engineering (ICDE) (pp. 1334-1345). IEEE.
+[3] Verma, S., & Rubin, J. (2018, May). Fairness definitions explained. In 2018 ieee/acm
+international workshop on software fairness (fairware) (pp. 1-7). IEEE.
+[4] Amazon scraps secret AI recruiting tool that showed bias against women, https://www.reuters.
+com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G
+[5] Kamiran, F. and Calders, T. Data preprocessing techniques for classification without
+discrimination. Knowledge and Information Systems, 33(1):1–33, 2012. doi: https://doi.
+org/10.1007/s10115-011-0463-8.
+[6] Zhang, B. H., Lemoine, B., and Mitchell, M. Mitigating unwanted biases with adversarial
+learning. In Proc. AAAI/ACM Conf. Artif. Intell., Ethics, Society, New Orleans, USA, February
+2018.
+[7] Agarwal, A., Beygelzimer, A., Dudík, M., Langford, J., & Wallach, H. (2018, July). A reductions
+approach to fair classification. In International Conference on Machine Learning (pp. 60-69).
+PMLR.
+[8] Hardt, M., Price, E., and Srebro, N. Equality of opportunity in supervised learning. In Advances
+in Neural Information Processing Systems 29, pp. 3315–3323, Barcelona, Spain,
+December 2016.
+www.mphasis.com | 11 | 57
+NR 30/03/21 US LETTER BASIL6804
+UK
+1 Ropemaker Street, London
+EC2Y 9HT, United Kingdom
+T : +44 020 7153 1327
+INDIA
+Bagmane World Technology Center
+Marathahalli Ring Road
+Doddanakundhi Village
+Mahadevapura
+Bangalore 560 048, India
+Tel.: +91 80 3352 5000
+Copyright © Mphasis Corporation. All rights reserved.
+For more information, contact: marketinginfo.m@mphasis.com
+USA
+460 Park Avenue South
+Suite #1101
+New York, NY 10016, USA
+Tel.: +1 212 686 6655
+About Mphasis
+Mphasis (BSE: 526299; NSE: MPHASIS) applies next-generation technology to help enterprises transform businesses globally. Customer centricity
+is foundational to Mphasis and is reflected in the Mphasis’ Front2Back™ Transformation approach. Front2Back™ uses the exponential power
+of cloud and cognitive to provide hyper-personalized (C = X2C2
+TM = 1) digital experience to clients and their end customers. Mphasis’ Service
+Transformation approach helps ‘shrink the core’ through the application of digital technologies across legacy environments within an enterprise,
+enabling businesses to stay ahead in a changing world. Mphasis’ core reference architectures and tools, speed and innovation with domain
+expertise and specialization are key to building strong relationships with marquee clients. To know more, please visit www.mphasis.com
+Authors
+Ashwani has expertise in emerging technologies and has been part of several award-winning
+projects in this space. Having previously worked in analytics and academics, he is currently
+a part of the leadership team at Mphasis NEXT Labs, where he helps solve business problems
+by leveraging AI/ML. Ashwani is also a thought leader in the space of behavioral applications
+of AI, with special focus on the emerging area of affective computing. He completed his
+doctoral studies at IIM Bangalore where his research was focused on Consumer Cognition
+and Decision Making.
+With 4+ years of experience in Data Science, Divay Garg has multiple patents to his credit.
+He has been a part of multiple award-winning projects. His interests include AI/ML, optimization
+and Natural Language Processing. Divay has completed his Masters in Industrial Engineering
+from Indian Institute of Technology (IIT, Kanpur).
+Dr. Ashwani Singh
+Manager – Applied AI, Mphasis NEXT Labs
+Divay Garg
+Asst. Manager – Applied AI, Mphasis NEXT Labs
